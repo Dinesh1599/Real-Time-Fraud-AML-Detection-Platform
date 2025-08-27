@@ -1,0 +1,201 @@
+merchant_id,name,mcc,country
+M-3000,"Jimenez, Navarro and Smith",7678,Saint Barthelemy
+M-3001,"Hernandez, Myers and Richardson",7357,Zimbabwe
+M-3002,Ferguson-Gallagher,8391,New Caledonia
+M-3003,Andrews-Davis,7626,Gibraltar
+M-3004,Harris-Jensen,8094,Namibia
+M-3005,"Vance, Martin and Nguyen",6183,Netherlands Antilles
+M-3006,Lambert-Fuller,1276,Algeria
+M-3007,Rojas-Tanner,7381,Morocco
+M-3008,"Johnson, Adams and Alvarez",2938,Serbia
+M-3009,"Jenkins, Garza and Shea",9762,Bahrain
+M-3010,Andrews-Sanders,1096,Angola
+M-3011,"Smith, Casey and Ellis",2036,Poland
+M-3012,"Jimenez, Hansen and Jennings",1745,Thailand
+M-3013,"Mitchell, Hill and Mckay",2189,Congo
+M-3014,"Pham, Boone and Rodriguez",6860,Kyrgyz Republic
+M-3015,Roberts Group,9238,Malaysia
+M-3016,"Cooper, Ross and Perkins",2738,Sri Lanka
+M-3017,"Rodriguez, James and Frank",5748,Marshall Islands
+M-3018,Baker LLC,5937,Algeria
+M-3019,"Jackson, Bowman and Drake",2417,Turkey
+M-3020,Murphy and Sons,5612,British Indian Ocean Territory (Chagos Archipelago)
+M-3021,Martin and Sons,8170,Kuwait
+M-3022,Sanders LLC,7249,Mexico
+M-3023,"Winters, Smith and Stephens",7473,Faroe Islands
+M-3024,"Bass, Howard and Garcia",1504,Cyprus
+M-3025,Hawkins PLC,8765,Montenegro
+M-3026,"Lee, Wade and Williams",3561,Liberia
+M-3027,Estrada-Fernandez,9740,Dominica
+M-3028,"Larson, Wells and Whitaker",4602,Samoa
+M-3029,Tran Group,3234,Tonga
+M-3030,Smith Group,7406,Solomon Islands
+M-3031,Herman-Williams,9941,Croatia
+M-3032,Frazier Ltd,5832,Iceland
+M-3033,"Powell, Vargas and Booth",3360,Nauru
+M-3034,Newman-Smith,5883,Zambia
+M-3035,Hughes-Davis,7113,Eritrea
+M-3036,"Lee, Gonzales and Weaver",1182,Tanzania
+M-3037,Reynolds-Hudson,3316,Macao
+M-3038,Sloan-Gaines,3019,Palau
+M-3039,Schmidt and Sons,1684,Israel
+M-3040,"Lara, Johnson and Welch",1082,Costa Rica
+M-3041,Watson-Watts,7456,Australia
+M-3042,Nelson LLC,9800,Gabon
+M-3043,Anderson-Larson,9970,Aruba
+M-3044,Webb-Ortega,2394,Zimbabwe
+M-3045,Hansen-Hickman,5992,Svalbard & Jan Mayen Islands
+M-3046,Martin-Case,4441,Honduras
+M-3047,Cobb and Sons,6633,Brazil
+M-3048,Kent-Carr,4469,Jordan
+M-3049,Taylor-Randolph,7760,Seychelles
+M-3050,Lopez and Sons,9397,British Virgin Islands
+M-3051,"Smith, Young and Frederick",3333,Oman
+M-3052,"Phillips, Mcguire and Green",3637,Gambia
+M-3053,Lester-Torres,4014,France
+M-3054,"Floyd, Watson and Walker",4617,Jordan
+M-3055,Jackson-Charles,5140,Svalbard & Jan Mayen Islands
+M-3056,Ferguson LLC,4183,Albania
+M-3057,Rivas-Montes,2877,France
+M-3058,Chandler-Robinson,3971,Chad
+M-3059,"Poole, Lam and Brown",1891,Saint Vincent and the Grenadines
+M-3060,Foster Ltd,9992,Colombia
+M-3061,Arias Inc,8557,Vanuatu
+M-3062,"Maxwell, Young and Maxwell",2198,Cambodia
+M-3063,"Booker, Simpson and Coleman",5762,Faroe Islands
+M-3064,"Day, Dennis and Williamson",2103,Micronesia
+M-3065,Joseph-Morris,5107,Greece
+M-3066,White Ltd,2608,Gambia
+M-3067,Maldonado LLC,4234,Burundi
+M-3068,"Villarreal, Garcia and Wilson",8982,Macao
+M-3069,Burns-Mendez,6420,Kiribati
+M-3070,Brown Inc,6851,Malta
+M-3071,"Williams, Parker and Davis",3100,Kiribati
+M-3072,Parker-Ruiz,4842,Serbia
+M-3073,Fowler-Kelly,2639,Cambodia
+M-3074,Gonzales-Rice,5671,Samoa
+M-3075,"Phillips, Whitaker and Anthony",2143,British Indian Ocean Territory (Chagos Archipelago)
+M-3076,Carpenter-Park,4170,Montenegro
+M-3077,Gonzalez-Roberts,6206,United Arab Emirates
+M-3078,"Harris, Cook and Freeman",8960,Marshall Islands
+M-3079,Walker Inc,8383,Malta
+M-3080,Fisher Inc,6379,Portugal
+M-3081,Allen Ltd,6008,Maldives
+M-3082,"Baird, Simmons and Johnson",3496,Lebanon
+M-3083,"Nichols, Thompson and Mcintyre",6971,Bangladesh
+M-3084,Bauer-Castillo,6182,Lebanon
+M-3085,Smith PLC,8017,Jordan
+M-3086,Stewart Inc,3762,Germany
+M-3087,Martinez Ltd,1079,Gambia
+M-3088,Murphy-Guerrero,6131,Vanuatu
+M-3089,Daniel-Webb,5033,Sri Lanka
+M-3090,"Williams, Hunt and Boyer",4629,Guinea-Bissau
+M-3091,Jennings-Lopez,8145,Fiji
+M-3092,Crawford-Moss,5533,Kenya
+M-3093,"Gray, Martin and Lamb",6889,Myanmar
+M-3094,Benitez and Sons,3200,Cote d'Ivoire
+M-3095,Taylor-Jacobs,6432,Equatorial Guinea
+M-3096,Soto-Jordan,8863,United Kingdom
+M-3097,Williams-Matthews,8583,Mozambique
+M-3098,Norris Inc,8296,Australia
+M-3099,"Larson, Peterson and Perez",6877,Andorra
+M-3100,"Bullock, Wall and Sutton",6004,Guam
+M-3101,Davis Inc,8978,Mauritania
+M-3102,"Ortiz, Boyd and Conway",2783,Chile
+M-3103,"Phillips, Hill and Pace",3879,Singapore
+M-3104,"Evans, Potter and Santana",2343,Paraguay
+M-3105,"Ramsey, Aguilar and Kim",5597,Moldova
+M-3106,Colon-Wu,3293,Greenland
+M-3107,"Mckinney, Bailey and Meyer",9824,Yemen
+M-3108,"Harmon, Kirby and Williams",4218,Cambodia
+M-3109,Alexander PLC,5312,Kyrgyz Republic
+M-3110,"Ryan, Guerrero and Bates",2252,Niue
+M-3111,Wilkins LLC,2235,Malta
+M-3112,"Lopez, Franklin and Heath",1305,United Arab Emirates
+M-3113,Murray LLC,9309,Sao Tome and Principe
+M-3114,"Rice, Moon and Baker",1511,Greenland
+M-3115,Tyler and Sons,7637,Jamaica
+M-3116,Hodges-Moore,4485,India
+M-3117,"Garcia, White and Robinson",1600,Antarctica (the territory South of 60 deg S)
+M-3118,Rice LLC,5269,Sao Tome and Principe
+M-3119,Sweeney-Wilson,9904,Belgium
+M-3120,"Sanchez, Andersen and Vasquez",9842,Martinique
+M-3121,Hill LLC,8734,Montserrat
+M-3122,Clay Inc,3435,Saint Pierre and Miquelon
+M-3123,"Douglas, Delacruz and Anthony",6993,Montenegro
+M-3124,"Singleton, Whitaker and Griffin",7430,Montserrat
+M-3125,Wood and Sons,4658,Moldova
+M-3126,Middleton-Richards,5767,Cyprus
+M-3127,Davis-Calderon,3193,Germany
+M-3128,"Wagner, Potter and Webster",8613,Kyrgyz Republic
+M-3129,"Smith, Huff and Flores",9210,Brunei Darussalam
+M-3130,"Foster, Reese and Martinez",9362,Montserrat
+M-3131,Cobb Inc,2483,Algeria
+M-3132,Mullen PLC,7500,Brunei Darussalam
+M-3133,"Rollins, Parker and Lucas",6961,Germany
+M-3134,Martinez-Cummings,9227,Armenia
+M-3135,"Brown, Schmidt and Mckenzie",1173,South Georgia and the South Sandwich Islands
+M-3136,Foley Ltd,4913,British Virgin Islands
+M-3137,Campbell Inc,3717,Turkmenistan
+M-3138,Evans Ltd,9423,Kyrgyz Republic
+M-3139,Morales LLC,3299,Venezuela
+M-3140,"Pope, Schmidt and Harris",8310,Saudi Arabia
+M-3141,Taylor-Gonzales,3608,Cuba
+M-3142,"Bailey, Le and Morales",3935,Ecuador
+M-3143,Gomez PLC,3395,Bahamas
+M-3144,"Smith, Cook and Morris",8921,Tunisia
+M-3145,Davis-Chen,6878,French Guiana
+M-3146,Wade-Miller,1662,Grenada
+M-3147,Hoover-Allen,4585,Libyan Arab Jamahiriya
+M-3148,"Lopez, Reed and Wiley",8989,Bolivia
+M-3149,Roberts-Long,4796,Philippines
+M-3150,"Williams, Anderson and Romero",2029,Dominican Republic
+M-3151,Tucker-Bryant,5331,Timor-Leste
+M-3152,Stephens Group,7052,Seychelles
+M-3153,"Gray, Smith and Sloan",4834,French Polynesia
+M-3154,Boyd Group,1701,Sri Lanka
+M-3155,Scott-Montoya,4387,Pitcairn Islands
+M-3156,Jones-Barry,9485,Niger
+M-3157,"Murray, Rush and Walters",6918,Costa Rica
+M-3158,Nichols-Meyers,7358,Uruguay
+M-3159,Ortiz-Baker,8695,Holy See (Vatican City State)
+M-3160,Johnson Ltd,8448,Moldova
+M-3161,"Smith, Henry and Lewis",1760,Estonia
+M-3162,Tucker and Sons,1653,Jamaica
+M-3163,Peck PLC,6309,Tunisia
+M-3164,Baker LLC,2691,Philippines
+M-3165,Chavez-Rice,9542,Morocco
+M-3166,Vargas and Sons,5480,Vanuatu
+M-3167,Johnston PLC,5314,South Georgia and the South Sandwich Islands
+M-3168,Barnes Group,9918,Eritrea
+M-3169,"Avila, Lowery and Dalton",3848,Nigeria
+M-3170,"Gillespie, Hudson and Thompson",7171,Martinique
+M-3171,Mays-Hicks,7201,Serbia
+M-3172,Pitts-Webster,6985,Guernsey
+M-3173,Foley and Sons,2275,Switzerland
+M-3174,Medina-Orozco,9465,Burkina Faso
+M-3175,Martinez-Adams,5121,Congo
+M-3176,May Group,7165,Sri Lanka
+M-3177,"Moyer, Galloway and Mccormick",4651,Saudi Arabia
+M-3178,Combs-Hoover,9460,Singapore
+M-3179,"Cannon, Johnson and Torres",7649,Cote d'Ivoire
+M-3180,"Gordon, Mills and Brown",6781,Lithuania
+M-3181,Kelley Group,6653,Pakistan
+M-3182,"Howard, Hunt and Oconnor",8976,Croatia
+M-3183,Campbell-Wells,8898,American Samoa
+M-3184,Davis-Love,1108,Netherlands Antilles
+M-3185,Dean Inc,9222,Western Sahara
+M-3186,Lee-Petersen,3276,Tunisia
+M-3187,Costa-Lopez,8207,Brunei Darussalam
+M-3188,Anderson-Baker,3713,Chad
+M-3189,Bradshaw Inc,4768,Palau
+M-3190,Huffman and Sons,2263,Uganda
+M-3191,Carr Ltd,9430,Palau
+M-3192,Cole-Anderson,5600,Ethiopia
+M-3193,Jones-Brown,4465,Portugal
+M-3194,Norris-Combs,3461,Faroe Islands
+M-3195,Cunningham and Sons,4062,Faroe Islands
+M-3196,Cuevas-Allen,3578,Mexico
+M-3197,"Jones, Howell and Klein",6934,Georgia
+M-3198,Blevins and Sons,2938,Cambodia
+M-3199,Stephens-Owens,4773,Myanmar

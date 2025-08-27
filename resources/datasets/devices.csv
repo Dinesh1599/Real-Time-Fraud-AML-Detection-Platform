@@ -1,0 +1,401 @@
+device_id,fingerprint,os,model
+D-4000,f3:4d:c7:82:d0:68,Mozilla/5.0 (Windows 95; fur-IT; rv:1.9.1.20) Gecko/2024-04-28 21:26:34 Firefox/3.8,Android 9
+D-4001,4d:11:10:ab:79:c8,Opera/8.11.(X11; Linux i686; bn-IN) Presto/2.9.166 Version/11.00,Android 3.2
+D-4002,ee:f3:a0:0f:1e:31,Opera/8.88.(Windows 98; Win 9x 4.90; kw-GB) Presto/2.9.160 Version/11.00,Android 4.0.1
+D-4003,2d:61:11:e7:57:52,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/44.0.814.0 Mobile/86P908 Safari/531.0",Android 2.2.3
+D-4004,23:f2:03:e8:83:9c,Mozilla/5.0 (Android 4.3; Mobile; rv:7.0) Gecko/7.0 Firefox/7.0,Android 4.4
+D-4005,b4:a1:30:73:42:f0,Opera/8.96.(Windows NT 6.1; oc-FR) Presto/2.9.183 Version/12.00,Android 2.2.1
+D-4006,8a:b0:b7:b3:39:c3,"Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/63.0.865.0 Safari/532.0",Android 1.6
+D-4007,04:89:9f:e9:84:0c,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cs-CZ) AppleWebKit/532.29.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6532.29.7",Android 5.0.1
+D-4008,67:c9:41:65:a6:75,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.1),Android 2.3.6
+D-4009,e5:14:50:3c:72:d2,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0),Android 4.4.4
+D-4010,04:56:21:55:66:fb,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2025-05-10 22:46:12 Firefox/3.6.11,Android 2.2.1
+D-4011,fd:67:e9:eb:16:c6,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/18.0.812.0 Mobile/54N818 Safari/535.2",Android 7.1.2
+D-4012,2b:a2:2f:bd:84:a8,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_1 rv:4.0; an-ES) AppleWebKit/532.49.5 (KHTML, like Gecko) Version/5.0.2 Safari/532.49.5",Android 3.2.5
+D-4013,0f:e4:a4:c0:80:91,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ce-RU) AppleWebKit/533.26.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6533.26.4",Android 4.0
+D-4014,93:00:4c:c8:48:11,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.33.1 (KHTML, like Gecko) Version/5.1 Safari/533.33.1",Android 1.0
+D-4015,96:2c:51:30:47:a9,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/20.0.804.0 Safari/535.0",Android 4.1.2
+D-4016,7c:49:ea:2c:0f:2d,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/10.7y6653.0 Mobile/20A485 Safari/533.0",Android 2.0.1
+D-4017,aa:79:03:bb:ff:68,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.0),Android 3.2.1
+D-4018,d7:2a:fb:d1:56:53,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.0),Android 6.0.1
+D-4019,ea:5d:c9:e7:01:c8,Opera/8.45.(X11; Linux x86_64; li-NL) Presto/2.9.190 Version/10.00,Android 2.0
+D-4020,e2:d1:e2:8a:96:f2,Opera/8.56.(X11; Linux i686; uz-UZ) Presto/2.9.178 Version/10.00,Android 1.0
+D-4021,12:d3:37:9b:f7:9a,Mozilla/5.0 (Windows NT 6.0; ln-CD; rv:1.9.1.20) Gecko/2015-05-01 04:48:51 Firefox/3.6.9,Android 4.1
+D-4022,4b:ed:7f:01:db:77,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1),Android 4.0.4
+D-4023,5b:21:8d:d6:0b:cf,Opera/8.15.(Windows NT 10.0; an-ES) Presto/2.9.187 Version/10.00,Android 2.3
+D-4024,2e:52:bd:9f:64:8e,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/41.0.870.0 Mobile/30J160 Safari/536.0",Android 4.3
+D-4025,19:29:2d:8d:10:06,Mozilla/5.0 (Android 8.1.0; Mobile; rv:6.0) Gecko/6.0 Firefox/6.0,Android 3.2
+D-4026,72:ac:54:3d:0b:f1,Mozilla/5.0 (Windows 95; sk-SK; rv:1.9.2.20) Gecko/2021-07-02 11:47:15 Firefox/3.6.15,Android 4.0
+D-4027,d6:36:03:5d:92:07,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_2 rv:3.0; fa-IR) AppleWebKit/533.23.4 (KHTML, like Gecko) Version/4.0.1 Safari/533.23.4",Android 4.2.1
+D-4028,13:c4:c3:b4:e9:84,Opera/9.18.(X11; Linux x86_64; apn-IN) Presto/2.9.185 Version/11.00,Android 3.2.6
+D-4029,3c:7d:ba:48:2d:a4,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/21.0.836.0 Mobile/64A261 Safari/536.0",Android 7.1
+D-4030,95:21:70:0c:05:9a,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/19.0.847.0 Safari/536.1",Android 2.0.1
+D-4031,01:a6:08:3c:8d:ff,Opera/9.25.(Windows NT 10.0; eo-US) Presto/2.9.176 Version/12.00,Android 3.1
+D-4032,f1:7e:ac:a4:38:46,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; he-IL) AppleWebKit/531.29.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6531.29.4",Android 6.0
+D-4033,ec:52:74:c4:09:4e,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.1),Android 5.1
+D-4034,8f:d8:ec:ef:48:12,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.0),Android 4.0.1
+D-4035,68:1f:ed:3e:b9:c4,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/5.0),Android 4.0.2
+D-4036,1f:6e:32:f9:a2:9d,Mozilla/5.0 (Android 3.2.6; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0,Android 4.4.2
+D-4037,69:49:f4:22:69:ad,Mozilla/5.0 (Windows NT 6.2; as-IN; rv:1.9.2.20) Gecko/2017-02-07 16:23:47 Firefox/3.8,Android 4.4.2
+D-4038,4a:f2:66:d6:2a:a7,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7 rv:6.0; fur-IT) AppleWebKit/534.28.3 (KHTML, like Gecko) Version/4.0.3 Safari/534.28.3",Android 2.2.3
+D-4039,df:27:0e:7b:84:4b,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/13.2o7111.0 Mobile/32U022 Safari/532.1",Android 3.2.4
+D-4040,77:10:bf:59:35:d9,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.14.5 (KHTML, like Gecko) Version/4.0.2 Safari/531.14.5",Android 1.6
+D-4041,d8:0c:24:e6:ed:09,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_3; rv:1.9.6.20) Gecko/2024-09-18 16:45:07 Firefox/5.0,Android 2.3.5
+D-4042,1f:50:b3:a6:37:70,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/532.9.4 (KHTML, like Gecko) Version/4.0.4 Safari/532.9.4",Android 7.0
+D-4043,dc:d6:e7:ca:a9:57,Opera/9.43.(X11; Linux i686; sk-SK) Presto/2.9.171 Version/10.00,Android 4.3
+D-4044,bf:0b:e7:00:de:9a,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/62.0.809.0 Safari/534.2",Android 2.3.5
+D-4045,11:73:58:50:b2:62,Mozilla/5.0 (Android 7.1; Mobile; rv:36.0) Gecko/36.0 Firefox/36.0,Android 2.2.1
+D-4046,03:0d:b1:76:3e:40,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.0),Android 4.0
+D-4047,aa:c9:a0:44:1c:3c,Mozilla/5.0 (Android 2.3.3; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0,Android 2.2.1
+D-4048,d8:8c:f2:a3:4d:cc,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.0),Android 7.1.2
+D-4049,d9:3d:e5:75:0d:02,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.11.6 (KHTML, like Gecko) Version/5.0.3 Safari/535.11.6",Android 3.1
+D-4050,30:8a:6b:47:33:35,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.1),Android 4.0.3
+D-4051,ec:47:85:ee:40:bf,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.0),Android 4.4.4
+D-4052,82:a4:38:5c:03:9a,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; st-ZA) AppleWebKit/534.32.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6534.32.1",Android 10
+D-4053,1d:54:ae:ef:94:dd,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1),Android 5.0.1
+D-4054,62:57:a4:df:f4:45,Opera/8.94.(X11; Linux i686; an-ES) Presto/2.9.172 Version/11.00,Android 4.2.1
+D-4055,56:b9:9c:6e:a3:bf,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/61.0.813.0 Safari/535.1",Android 7.1
+D-4056,56:53:7d:8c:2c:93,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.12.5 (KHTML, like Gecko) Version/4.1 Safari/535.12.5",Android 11
+D-4057,b8:dc:63:5e:22:f4,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.0),Android 4.3
+D-4058,26:19:2b:70:7d:bd,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; rv:1.9.5.20) Gecko/2020-03-01 15:13:33 Firefox/13.0,Android 1.0
+D-4059,07:a6:74:ed:58:66,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.1),Android 4.4.1
+D-4060,4b:72:38:69:65:d2,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/60.0.825.0 Safari/531.2",Android 4.0.2
+D-4061,d7:10:d8:6a:80:95,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2021-08-11 09:15:34 Firefox/4.0,Android 2.3.6
+D-4062,b0:db:ab:64:c7:82,Opera/9.38.(X11; Linux i686; eu-FR) Presto/2.9.187 Version/11.00,Android 3.2.3
+D-4063,46:d6:15:8f:ef:58,Mozilla/5.0 (Android 4.4.2; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0,Android 5.0.1
+D-4064,30:96:71:e9:86:8d,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/16.6l3681.0 Mobile/56E467 Safari/535.1",Android 3.2.3
+D-4065,0a:94:78:ba:d2:db,"Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/63.0.815.0 Safari/533.0",Android 3.2.5
+D-4066,f3:8f:29:08:e7:dc,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0),Android 3.2.3
+D-4067,f1:69:d4:68:9b:56,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2 rv:2.0; kn-IN) AppleWebKit/535.33.7 (KHTML, like Gecko) Version/5.0 Safari/535.33.7",Android 5.0.2
+D-4068,27:cd:e2:0f:d0:c8,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/15.8f9198.0 Mobile/07F399 Safari/532.2",Android 2.3.7
+D-4069,50:0f:69:78:2c:79,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0),Android 2.2
+D-4070,90:b7:d6:e6:0d:c2,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; aa-ER) AppleWebKit/532.5.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.5.5",Android 4.4.2
+D-4071,26:ee:39:d4:f1:02,Opera/8.53.(X11; Linux x86_64; tt-RU) Presto/2.9.181 Version/10.00,Android 7.1.2
+D-4072,1a:34:c2:81:48:2f,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.0),Android 2.2
+D-4073,f3:1b:4f:d3:98:15,Opera/8.76.(X11; Linux i686; gd-GB) Presto/2.9.176 Version/12.00,Android 4.3.1
+D-4074,21:e8:51:cd:4c:54,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.36.2 (KHTML, like Gecko) Version/5.0.3 Safari/534.36.2",Android 2.0
+D-4075,d6:01:d8:39:c5:38,Mozilla/5.0 (Windows NT 6.1; ia-FR; rv:1.9.1.20) Gecko/2024-08-09 20:10:29 Firefox/11.0,Android 5.0.1
+D-4076,97:49:98:53:bf:6e,Opera/8.68.(X11; Linux i686; sw-KE) Presto/2.9.190 Version/10.00,Android 3.2.2
+D-4077,7f:04:5d:88:e7:cf,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.889.0 Safari/532.2",Android 5.1
+D-4078,8e:08:7c:cc:8b:4b,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/22.0.825.0 Safari/533.2",Android 3.2.2
+D-4079,9e:f8:59:45:19:83,Mozilla/5.0 (Android 4.0.2; Mobile; rv:56.0) Gecko/56.0 Firefox/56.0,Android 4.3
+D-4080,5f:be:de:06:9a:3e,Mozilla/5.0 (Windows 95; as-IN; rv:1.9.0.20) Gecko/2012-12-08 21:54:25 Firefox/3.6.2,Android 7.1.1
+D-4081,91:24:6f:99:3c:08,Mozilla/5.0 (Android 3.2; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0,Android 3.2.6
+D-4082,34:85:cd:40:11:bd,Opera/9.41.(X11; Linux i686; af-ZA) Presto/2.9.175 Version/12.00,Android 4.3.1
+D-4083,01:e5:d1:d1:33:dc,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; km-KH) AppleWebKit/533.31.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6533.31.2",Android 2.3.1
+D-4084,f6:a1:cf:31:06:1a,Opera/9.17.(Windows NT 5.1; fy-NL) Presto/2.9.162 Version/11.00,Android 2.3.3
+D-4085,d6:2c:5b:17:4b:aa,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4 rv:3.0; fur-IT) AppleWebKit/535.39.6 (KHTML, like Gecko) Version/4.1 Safari/535.39.6",Android 4.1.2
+D-4086,00:8a:fc:dc:0d:e3,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9 rv:2.0; af-ZA) AppleWebKit/534.9.7 (KHTML, like Gecko) Version/5.0 Safari/534.9.7",Android 4.4.3
+D-4087,7a:55:b1:28:89:b4,Opera/8.54.(Windows NT 4.0; ayc-PE) Presto/2.9.177 Version/11.00,Android 3.2.1
+D-4088,28:30:a4:e7:85:8a,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4 rv:2.0; bem-ZM) AppleWebKit/534.43.3 (KHTML, like Gecko) Version/4.1 Safari/534.43.3",Android 2.2
+D-4089,8d:09:7f:4c:5b:29,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_4 rv:2.0; et-EE) AppleWebKit/531.44.2 (KHTML, like Gecko) Version/5.0.4 Safari/531.44.2",Android 2.2.3
+D-4090,ad:2e:c3:90:df:69,Mozilla/5.0 (Android 2.0.1; Mobile; rv:16.0) Gecko/16.0 Firefox/16.0,Android 3.2.3
+D-4091,33:31:ab:8d:ad:18,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/4.0),Android 2.3
+D-4092,3d:39:ce:10:97:e8,Mozilla/5.0 (Android 3.2.5; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0,Android 2.3
+D-4093,7f:a7:c0:01:ba:76,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/44.0.871.0 Safari/532.2",Android 3.2.2
+D-4094,16:42:2c:db:88:04,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0 rv:3.0; ta-IN) AppleWebKit/535.38.1 (KHTML, like Gecko) Version/4.0 Safari/535.38.1",Android 2.2.3
+D-4095,66:eb:bd:ef:bb:76,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/60.0.871.0 Mobile/26W009 Safari/535.2",Android 2.3.7
+D-4096,92:a8:73:2e:3f:08,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; tn-ZA) AppleWebKit/531.46.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.46.5",Android 5.1.1
+D-4097,bd:4c:3f:fc:fd:1a,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.0),Android 6.0
+D-4098,d1:34:d7:47:9e:d8,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/25.0.845.0 Safari/534.0",Android 3.2.6
+D-4099,fe:30:a1:d8:1b:b1,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; hu-HU) AppleWebKit/534.37.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6534.37.1",Android 3.2.3
+D-4100,87:bb:6d:31:a3:ef,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; tt-RU) AppleWebKit/531.21.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.21.6",Android 2.3.4
+D-4101,63:a5:fd:87:eb:ca,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; hr-HR) AppleWebKit/531.24.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6531.24.6",Android 3.2.2
+D-4102,dd:fa:7b:6f:61:49,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_2 rv:6.0; sq-ML) AppleWebKit/534.14.7 (KHTML, like Gecko) Version/4.0.2 Safari/534.14.7",Android 9
+D-4103,eb:c0:5f:84:54:e0,Opera/9.93.(X11; Linux i686; tk-TM) Presto/2.9.167 Version/12.00,Android 2.2.2
+D-4104,17:45:7a:5d:0b:30,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.0),Android 2.3.3
+D-4105,59:8e:96:46:6c:98,Opera/8.96.(X11; Linux i686; tg-TJ) Presto/2.9.188 Version/12.00,Android 4.0.2
+D-4106,a9:a4:2b:a8:89:af,Mozilla/5.0 (Windows CE; wa-BE; rv:1.9.0.20) Gecko/2025-07-25 14:38:31 Firefox/3.6.15,Android 11
+D-4107,cb:cd:98:f4:0e:e2,"Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/43.0.890.0 Safari/532.2",Android 2.3.6
+D-4108,09:de:f2:bb:55:db,Opera/8.11.(Windows 98; Win 9x 4.90; lzh-TW) Presto/2.9.186 Version/11.00,Android 7.0
+D-4109,14:7d:cf:61:b6:ce,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/3.1),Android 4.2
+D-4110,e5:88:a1:f8:6a:35,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.38.6 (KHTML, like Gecko) Version/5.0.5 Safari/532.38.6",Android 7.1.1
+D-4111,90:6a:49:d5:df:97,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2013-03-03 14:58:29 Firefox/6.0,Android 6.0.1
+D-4112,52:ae:cb:ec:fb:20,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.34.2 (KHTML, like Gecko) Version/4.0.2 Safari/535.34.2",Android 3.2.3
+D-4113,27:66:82:bd:cd:9c,Opera/9.75.(X11; Linux x86_64; mi-NZ) Presto/2.9.184 Version/12.00,Android 3.2.6
+D-4114,e3:89:c6:62:7b:01,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_1 rv:5.0; si-LK) AppleWebKit/534.10.2 (KHTML, like Gecko) Version/4.0 Safari/534.10.2",Android 3.1
+D-4115,b6:a3:e6:d0:8e:a9,Opera/9.55.(X11; Linux x86_64; kok-IN) Presto/2.9.184 Version/11.00,Android 2.1
+D-4116,58:82:f0:dc:8c:02,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/29.0.808.0 Mobile/87Z586 Safari/531.1",Android 4.2.1
+D-4117,f1:97:02:49:67:67,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0 rv:3.0; om-ET) AppleWebKit/534.35.4 (KHTML, like Gecko) Version/4.1 Safari/534.35.4",Android 2.2.2
+D-4118,6c:d2:1f:58:17:aa,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/34.0.819.0 Mobile/83X094 Safari/535.2",Android 2.3.6
+D-4119,38:6b:b9:c7:8a:06,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.0),Android 3.2.1
+D-4120,c1:fb:99:07:a4:ff,Mozilla/5.0 (Android 2.2.2; Mobile; rv:10.0) Gecko/10.0 Firefox/10.0,Android 4.4.1
+D-4121,eb:f1:92:df:eb:b9,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.8.6 (KHTML, like Gecko) Version/4.1 Safari/533.8.6",Android 2.3.4
+D-4122,70:56:db:0f:b8:c0,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_0 rv:5.0; rw-RW) AppleWebKit/533.11.4 (KHTML, like Gecko) Version/5.1 Safari/533.11.4",Android 2.0.1
+D-4123,2e:ef:4c:96:4b:c3,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.1),Android 4.3
+D-4124,0b:d7:4e:78:44:eb,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/18.9i0065.0 Mobile/90P223 Safari/535.2",Android 2.0
+D-4125,14:e7:6b:ec:21:b4,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.21.4 (KHTML, like Gecko) Version/4.0.5 Safari/531.21.4",Android 4.1
+D-4126,0b:4f:08:f5:cc:28,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2016-10-16 05:16:52 Firefox/3.6.4,Android 2.3.3
+D-4127,f6:4b:49:c6:76:72,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1),Android 4.2.2
+D-4128,e8:17:7c:a1:16:d7,Opera/8.34.(Windows NT 5.1; ro-RO) Presto/2.9.187 Version/12.00,Android 3.2
+D-4129,b5:e4:06:f9:e2:78,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/54.0.811.0 Safari/532.2",Android 2.3.5
+D-4130,16:9f:bc:6b:35:27,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.0),Android 4.4
+D-4131,34:4e:74:a5:19:65,Opera/8.14.(X11; Linux x86_64; csb-PL) Presto/2.9.180 Version/11.00,Android 4.2.1
+D-4132,e0:e6:e4:1b:48:76,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1),Android 2.3.5
+D-4133,d2:f2:96:0c:76:d8,Opera/8.88.(X11; Linux x86_64; apn-IN) Presto/2.9.173 Version/10.00,Android 3.1
+D-4134,f5:6f:ff:6a:3c:b5,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; zh-HK) AppleWebKit/534.24.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.24.4",Android 7.0
+D-4135,2d:a9:bc:9b:53:74,Mozilla/5.0 (Windows NT 4.0; iw-IL; rv:1.9.1.20) Gecko/2024-07-15 21:42:35 Firefox/3.8,Android 3.2.6
+D-4136,20:e2:01:ac:06:52,Mozilla/5.0 (Windows CE; yi-US; rv:1.9.1.20) Gecko/2021-04-21 11:09:42 Firefox/3.6.4,Android 4.2
+D-4137,c4:5f:3b:60:d4:c1,Opera/9.19.(Windows 98; te-IN) Presto/2.9.173 Version/11.00,Android 1.0
+D-4138,47:a0:c9:7b:8e:59,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/35.0.879.0 Safari/532.0",Android 2.2.2
+D-4139,9b:8d:ce:3d:8c:96,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/17.0.872.0 Mobile/33J517 Safari/535.0",Android 5.1.1
+D-4140,b6:c3:ab:b6:50:5d,Opera/9.87.(X11; Linux x86_64; mag-IN) Presto/2.9.185 Version/10.00,Android 1.5
+D-4141,0d:6e:a5:01:5b:ab,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.0),Android 7.0
+D-4142,8a:93:82:cc:f6:48,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/9.6s1574.0 Mobile/33I145 Safari/533.1",Android 3.1
+D-4143,92:7c:e1:fd:de:d9,"Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/40.0.861.0 Mobile/08B580 Safari/535.0",Android 3.2.5
+D-4144,57:35:07:f8:27:e9,"Mozilla/5.0 (Windows 95) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/39.0.882.0 Safari/531.2",Android 1.0
+D-4145,ce:11:1b:5e:63:1b,Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/2024-11-15 13:53:36 Firefox/3.6.11,Android 2.2.1
+D-4146,45:45:8e:13:10:a3,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3; rv:1.9.3.20) Gecko/2020-12-27 03:37:24 Firefox/6.0,Android 2.2.1
+D-4147,6e:9b:5f:cc:98:98,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; sw-TZ) AppleWebKit/534.28.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.28.7",Android 4.4.1
+D-4148,f2:7c:8d:b8:5a:f1,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5; rv:1.9.3.20) Gecko/2017-01-22 10:05:28 Firefox/10.0,Android 9
+D-4149,c9:de:a2:77:ad:6a,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.45.6 (KHTML, like Gecko) Version/5.0.2 Safari/535.45.6",Android 3.2
+D-4150,f3:29:50:ea:d6:64,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.21.3 (KHTML, like Gecko) Version/5.1 Safari/532.21.3",Android 2.3.7
+D-4151,f0:79:27:d4:31:b5,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/13.7b3726.0 Mobile/37A103 Safari/535.2",Android 2.3.2
+D-4152,3c:43:3e:92:cb:64,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_4 rv:4.0; tt-RU) AppleWebKit/533.50.4 (KHTML, like Gecko) Version/4.1 Safari/533.50.4",Android 2.2.1
+D-4153,99:05:6e:ca:86:28,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/23.0.844.0 Mobile/66C497 Safari/532.2",Android 1.1
+D-4154,3a:cd:7e:8b:11:29,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/13.1z4098.0 Mobile/67Z348 Safari/534.2",Android 4.4
+D-4155,2a:0c:18:9f:52:13,Mozilla/5.0 (Windows CE; hy-AM; rv:1.9.1.20) Gecko/2024-07-07 16:45:42 Firefox/3.8,Android 2.3.2
+D-4156,c3:1e:28:a5:f6:32,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/32.0.859.0 Safari/534.0",Android 5.1
+D-4157,6d:df:f3:bc:fb:c2,Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/5.0),Android 2.3.4
+D-4158,28:13:ff:9a:38:c2,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/17.0.852.0 Mobile/23J215 Safari/535.1",Android 2.3.5
+D-4159,b0:ac:55:a5:59:fe,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.1),Android 2.3.7
+D-4160,f9:21:ee:8d:b7:da,Opera/9.23.(X11; Linux x86_64; raj-IN) Presto/2.9.161 Version/10.00,Android 4.2.1
+D-4161,ae:dd:e7:b2:cd:6a,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.1),Android 7.1.2
+D-4162,4a:5e:e5:2c:e9:4f,Opera/8.43.(Windows 98; Win 9x 4.90; unm-US) Presto/2.9.172 Version/11.00,Android 3.2.3
+D-4163,04:f3:0b:15:2a:96,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1),Android 4.0.4
+D-4164,d7:5c:85:14:e3:34,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/21.0.868.0 Safari/531.2",Android 2.2.1
+D-4165,75:49:4b:5c:59:4f,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1),Android 3.1
+D-4166,4f:62:b7:98:10:00,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.1),Android 4.0
+D-4167,3b:74:be:34:3b:7e,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.0),Android 3.1
+D-4168,e2:4a:54:43:03:df,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.1),Android 11
+D-4169,fa:14:ed:7b:0e:41,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_4 rv:2.0; tk-TM) AppleWebKit/531.5.1 (KHTML, like Gecko) Version/5.0.1 Safari/531.5.1",Android 4.0.2
+D-4170,d1:e8:93:41:12:59,"Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/55.0.818.0 Safari/536.2",Android 2.3.5
+D-4171,7a:ce:07:a3:a9:a5,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.1),Android 4.4.3
+D-4172,0a:8e:5f:00:d6:dc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5 rv:5.0; am-ET) AppleWebKit/531.45.3 (KHTML, like Gecko) Version/4.1 Safari/531.45.3",Android 3.2.2
+D-4173,e3:16:2a:cc:a2:49,Opera/8.48.(Windows 98; ha-NG) Presto/2.9.181 Version/12.00,Android 4.2.1
+D-4174,1d:47:b7:70:0a:8f,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0; rv:1.9.4.20) Gecko/2019-02-23 20:19:46 Firefox/15.0,Android 2.3.4
+D-4175,cb:37:a7:ad:a1:ea,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.0),Android 7.0
+D-4176,ff:c1:07:53:8e:54,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0),Android 2.3.3
+D-4177,49:ad:95:b7:5c:71,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/14.0.817.0 Safari/533.2",Android 3.2.5
+D-4178,ed:5a:3d:b7:7b:5a,Opera/9.38.(Windows NT 6.0; gez-ET) Presto/2.9.187 Version/10.00,Android 2.2.1
+D-4179,b5:10:6e:3e:76:50,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_9 rv:2.0; fo-FO) AppleWebKit/531.20.5 (KHTML, like Gecko) Version/5.0.1 Safari/531.20.5",Android 4.3
+D-4180,73:fa:f9:2b:1f:01,"Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/59.0.857.0 Mobile/29M561 Safari/536.0",Android 4.3
+D-4181,49:74:00:92:b0:6f,Mozilla/5.0 (Android 3.2.6; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0,Android 4.4
+D-4182,d6:22:40:0d:51:2c,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.1),Android 4.4.1
+D-4183,25:1e:4f:43:7d:23,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/47.0.845.0 Safari/534.1",Android 4.4
+D-4184,bc:d4:70:fe:2a:2a,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.0),Android 1.1
+D-4185,14:0e:7d:e8:ac:7d,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_9 rv:6.0; gez-ER) AppleWebKit/535.37.6 (KHTML, like Gecko) Version/4.0 Safari/535.37.6",Android 5.0.2
+D-4186,84:34:fb:67:fe:d3,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.0),Android 8.1.0
+D-4187,47:15:30:32:8c:0f,Opera/8.65.(X11; Linux x86_64; et-EE) Presto/2.9.172 Version/11.00,Android 4.0
+D-4188,70:bc:20:49:f9:5d,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/3.0),Android 4.0.3
+D-4189,bb:c8:a0:c5:f0:d2,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.1),Android 4.2.1
+D-4190,da:51:54:8e:93:bc,"Mozilla/5.0 (Linux; Android 7.1.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/39.0.898.0 Safari/531.1",Android 2.3
+D-4191,76:a3:0b:e1:6e:83,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.0),Android 3.0
+D-4192,df:be:02:5f:4b:64,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0),Android 2.3.7
+D-4193,b0:fc:ed:46:bf:3b,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gd-GB) AppleWebKit/533.45.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6533.45.6",Android 5.0
+D-4194,4f:1c:8a:a2:20:ca,Opera/9.90.(Windows NT 10.0; nhn-MX) Presto/2.9.172 Version/10.00,Android 2.3.3
+D-4195,47:da:66:02:39:22,Mozilla/5.0 (Android 1.0; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0,Android 7.1.2
+D-4196,44:0c:bd:d6:8f:1a,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/16.0.827.0 Mobile/49G519 Safari/532.0",Android 5.0
+D-4197,12:92:82:22:1f:90,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/25.0.866.0 Safari/533.0",Android 1.5
+D-4198,06:34:ce:a2:c3:90,Opera/8.87.(Windows NT 5.1; nl-NL) Presto/2.9.168 Version/10.00,Android 1.5
+D-4199,4f:ec:34:cf:68:f7,"Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/46.0.825.0 Safari/534.0",Android 7.1.1
+D-4200,15:a4:0e:aa:6a:bf,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/14.3u5339.0 Mobile/65L728 Safari/535.1",Android 6.0.1
+D-4201,89:d9:db:f8:6a:02,"Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/17.8u3451.0 Mobile/72S766 Safari/532.0",Android 9
+D-4202,f1:40:04:e9:72:55,Opera/8.25.(X11; Linux x86_64; om-KE) Presto/2.9.189 Version/12.00,Android 7.1.2
+D-4203,95:47:a3:41:f6:c7,Mozilla/5.0 (Android 4.0.2; Mobile; rv:18.0) Gecko/18.0 Firefox/18.0,Android 3.2.1
+D-4204,cc:ce:e9:d0:97:14,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.47.6 (KHTML, like Gecko) Version/4.0 Safari/535.47.6",Android 5.1
+D-4205,ea:66:5d:41:2d:26,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/5.0),Android 4.0.1
+D-4206,0a:b9:91:f4:7c:d7,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/45.0.804.0 Safari/531.1",Android 4.2.2
+D-4207,e9:68:70:a3:93:69,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0),Android 2.1
+D-4208,91:ce:f1:2e:81:c4,Mozilla/5.0 (Android 1.5; Mobile; rv:9.0) Gecko/9.0 Firefox/9.0,Android 4.4.1
+D-4209,19:2c:9b:c1:08:a3,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/38.0.883.0 Safari/535.0",Android 5.0
+D-4210,13:1a:78:21:e3:3a,"Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/29.0.890.0 Safari/533.2",Android 2.0.1
+D-4211,7c:d5:c9:57:0c:2a,"Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/17.5l3110.0 Mobile/94A747 Safari/531.1",Android 2.2
+D-4212,9d:47:d8:77:f2:d0,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/5.0),Android 3.2.4
+D-4213,f8:da:f5:32:fd:f5,Opera/9.79.(X11; Linux i686; ur-IN) Presto/2.9.173 Version/10.00,Android 4.1
+D-4214,b7:0c:2c:cb:52:eb,Opera/9.66.(Windows NT 6.0; es-CU) Presto/2.9.173 Version/11.00,Android 4.0.4
+D-4215,05:63:e5:cb:2b:ca,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/5.0),Android 4.0.1
+D-4216,95:7b:a2:36:45:a5,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1),Android 2.2.2
+D-4217,de:a5:fd:c2:97:0c,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; as-IN) AppleWebKit/532.36.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.36.3",Android 2.3.1
+D-4218,23:47:b4:ca:b3:2f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; sat-IN) AppleWebKit/535.29.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.29.1",Android 10
+D-4219,e4:fb:b2:ed:19:77,"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/38.0.880.0 Safari/532.2",Android 7.1
+D-4220,60:d0:6b:3c:08:c4,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4; rv:1.9.5.20) Gecko/2020-11-14 05:26:17 Firefox/3.8,Android 1.6
+D-4221,c2:fc:6a:b9:9b:81,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.0),Android 2.3.6
+D-4222,c2:db:d6:b5:65:89,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7 rv:3.0; unm-US) AppleWebKit/532.19.5 (KHTML, like Gecko) Version/4.0.3 Safari/532.19.5",Android 2.3.4
+D-4223,4e:0f:eb:f2:ba:f1,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/55.0.883.0 Safari/535.2",Android 4.2.2
+D-4224,59:89:cd:ed:54:04,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/55.0.880.0 Safari/534.0",Android 4.1.2
+D-4225,b3:38:b5:13:43:02,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.0),Android 11
+D-4226,30:9f:6b:af:74:21,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/12.2i3590.0 Mobile/95D311 Safari/532.1",Android 2.3.1
+D-4227,b3:b2:95:af:29:84,Opera/9.22.(X11; Linux i686; tg-TJ) Presto/2.9.178 Version/10.00,Android 2.0.1
+D-4228,f4:9b:b0:b7:a0:70,Opera/8.63.(X11; Linux i686; ms-MY) Presto/2.9.175 Version/10.00,Android 4.0.1
+D-4229,66:7e:e2:80:c5:30,"Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/12.6d0848.0 Mobile/62F641 Safari/534.1",Android 4.2.2
+D-4230,ac:25:df:fc:1e:9f,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.0),Android 8.1.0
+D-4231,40:d6:e1:74:33:58,Mozilla/5.0 (Android 4.0.2; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0,Android 2.3
+D-4232,20:38:a9:95:0c:92,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.0),Android 4.4
+D-4233,99:7f:df:be:73:2b,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/26.0.820.0 Mobile/29V771 Safari/536.2",Android 2.2
+D-4234,da:48:2a:1b:fa:75,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3 rv:5.0; sr-ME) AppleWebKit/532.11.1 (KHTML, like Gecko) Version/4.0.4 Safari/532.11.1",Android 2.2.1
+D-4235,e7:f9:00:e2:95:b1,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_2 rv:2.0; hu-HU) AppleWebKit/535.47.1 (KHTML, like Gecko) Version/4.0 Safari/535.47.1",Android 4.1.2
+D-4236,11:6d:9e:b1:1c:57,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; hi-IN) AppleWebKit/533.33.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6533.33.4",Android 4.4.4
+D-4237,4a:7a:d9:31:16:26,Mozilla/5.0 (Android 5.0; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0,Android 2.3.3
+D-4238,d4:04:79:2c:f5:7d,Opera/9.71.(X11; Linux i686; oc-FR) Presto/2.9.180 Version/11.00,Android 2.3
+D-4239,17:15:0b:b5:42:29,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1),Android 8.1.0
+D-4240,04:e9:3a:de:7b:89,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1 rv:2.0; fil-PH) AppleWebKit/533.2.7 (KHTML, like Gecko) Version/5.0.1 Safari/533.2.7",Android 9
+D-4241,ba:d7:f1:48:ca:b0,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.0),Android 4.0.1
+D-4242,db:ff:28:78:e0:e4,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/19.0.825.0 Mobile/88H626 Safari/536.2",Android 7.1
+D-4243,f4:92:17:54:47:6f,Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.1),Android 5.1.1
+D-4244,c8:c3:5a:fd:d9:68,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/15.4m8319.0 Mobile/14F215 Safari/534.1",Android 4.1.2
+D-4245,76:01:0e:8e:70:f9,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2 rv:5.0; st-ZA) AppleWebKit/532.26.6 (KHTML, like Gecko) Version/4.1 Safari/532.26.6",Android 2.0
+D-4246,16:87:19:c1:4a:30,"Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/41.0.867.0 Mobile/22P824 Safari/535.1",Android 5.0
+D-4247,81:f4:91:e5:1d:a1,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2013-04-17 18:05:42 Firefox/5.0,Android 5.0.1
+D-4248,d4:34:d6:9c:d2:6f,Opera/8.60.(X11; Linux i686; byn-ER) Presto/2.9.176 Version/12.00,Android 4.1
+D-4249,55:18:3a:6a:06:ff,"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/28.0.809.0 Safari/534.1",Android 4.2.2
+D-4250,b6:97:be:aa:73:ae,Opera/9.37.(X11; Linux i686; wal-ET) Presto/2.9.164 Version/11.00,Android 4.2.2
+D-4251,4e:4a:a4:af:36:e0,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0),Android 3.1
+D-4252,22:82:fc:d7:5b:36,Mozilla/5.0 (Android 4.4.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0,Android 4.4.3
+D-4253,9c:b9:ed:45:8e:10,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; pa-IN) AppleWebKit/535.39.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6535.39.7",Android 4.0.2
+D-4254,62:db:e7:0e:f4:45,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/54.0.821.0 Safari/534.2",Android 8.0.0
+D-4255,33:9e:94:89:56:97,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.10.6 (KHTML, like Gecko) Version/4.0.2 Safari/533.10.6",Android 4.4.1
+D-4256,da:21:ac:d5:8c:04,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; fur-IT) AppleWebKit/535.19.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.19.1",Android 4.3.1
+D-4257,1c:5b:c5:26:24:0d,"Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/9.7v6669.0 Mobile/99H202 Safari/532.2",Android 5.1.1
+D-4258,76:9c:40:8f:4c:96,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/32.0.886.0 Safari/534.1",Android 4.0.4
+D-4259,de:b9:93:59:91:7f,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ku-TR) AppleWebKit/532.25.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6532.25.5",Android 8.0.0
+D-4260,bf:8b:f5:04:7f:da,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7 rv:2.0; om-KE) AppleWebKit/534.19.3 (KHTML, like Gecko) Version/5.0 Safari/534.19.3",Android 2.2.1
+D-4261,e9:6c:8c:91:cd:c1,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/534.28.4 (KHTML, like Gecko) Version/5.0.4 Safari/534.28.4",Android 2.0.1
+D-4262,0d:6e:85:e5:34:ac,Opera/8.93.(Windows NT 5.0; mt-MT) Presto/2.9.183 Version/11.00,Android 3.2
+D-4263,27:d8:0a:31:c4:fb,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0),Android 2.3.2
+D-4264,91:6a:bc:de:a7:09,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1),Android 5.1.1
+D-4265,d1:d1:75:f8:af:9f,"Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/33.0.890.0 Safari/532.2",Android 7.1.1
+D-4266,9a:24:d2:7f:93:7d,Opera/9.38.(X11; Linux i686; vi-VN) Presto/2.9.166 Version/11.00,Android 1.1
+D-4267,2b:0b:28:48:e0:c1,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_5 rv:6.0; ja-JP) AppleWebKit/533.6.7 (KHTML, like Gecko) Version/4.0.1 Safari/533.6.7",Android 3.1
+D-4268,d4:4b:1a:63:d8:6e,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0),Android 4.3.1
+D-4269,84:ce:c1:7d:77:35,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7 rv:3.0; ne-NP) AppleWebKit/531.44.2 (KHTML, like Gecko) Version/4.1 Safari/531.44.2",Android 4.0.1
+D-4270,ec:db:58:d3:45:c6,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_0; rv:1.9.3.20) Gecko/2019-02-27 03:37:55 Firefox/3.6.11,Android 1.1
+D-4271,87:4c:0b:f5:d7:ef,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1),Android 3.2.1
+D-4272,66:98:2d:26:a2:f1,Mozilla/5.0 (Windows NT 4.0; ia-FR; rv:1.9.0.20) Gecko/2020-01-04 22:41:08 Firefox/3.8,Android 4.3.1
+D-4273,06:12:85:ee:0e:28,"Mozilla/5.0 (Linux; Android 2.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/56.0.840.0 Safari/531.2",Android 3.2.6
+D-4274,27:9f:9c:f0:e5:d9,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/34.0.876.0 Mobile/68X704 Safari/535.2",Android 3.2.2
+D-4275,08:22:8d:54:77:76,"Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/35.0.808.0 Safari/536.0",Android 1.5
+D-4276,9d:f8:9d:e6:7c:6d,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.6.3 (KHTML, like Gecko) Version/5.0 Safari/535.6.3",Android 9
+D-4277,55:73:f6:73:b6:2a,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; kk-KZ) AppleWebKit/534.27.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6534.27.3",Android 3.2.2
+D-4278,64:88:d6:a2:28:b2,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2023-03-14 18:41:37 Firefox/3.6.18,Android 3.0
+D-4279,2e:15:1c:64:21:84,Opera/8.98.(Windows NT 4.0; da-DK) Presto/2.9.169 Version/10.00,Android 4.2.2
+D-4280,bd:ed:7b:1a:34:58,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/59.0.851.0 Safari/535.1",Android 6.0
+D-4281,9d:97:05:e6:e1:2d,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/60.0.890.0 Safari/531.2",Android 3.2.5
+D-4282,88:ae:4e:1c:d5:9d,"Mozilla/5.0 (Windows 98) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/14.0.807.0 Safari/535.2",Android 4.4.2
+D-4283,2a:ff:b6:cd:57:c3,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.50.4 (KHTML, like Gecko) Version/4.0.1 Safari/535.50.4",Android 4.4.1
+D-4284,b4:fc:42:43:e9:19,Mozilla/5.0 (Windows 98; Win 9x 4.90; the-NP; rv:1.9.0.20) Gecko/2010-07-09 13:18:56 Firefox/3.6.2,Android 2.3.7
+D-4285,0e:58:5d:86:06:d6,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.1),Android 11
+D-4286,cc:ae:15:0b:83:2a,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gd-GB) AppleWebKit/535.33.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.33.3",Android 9
+D-4287,e2:c3:b1:d9:79:25,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/12.6i0479.0 Mobile/90R113 Safari/532.0",Android 2.2.3
+D-4288,94:9d:25:3e:84:eb,"Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.24.2 (KHTML, like Gecko) Version/5.0 Safari/531.24.2",Android 4.4.1
+D-4289,c9:fc:04:82:ce:d3,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.0),Android 4.2.1
+D-4290,55:bc:5f:51:54:00,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.887.0 Safari/535.0",Android 4.0.2
+D-4291,89:8f:a6:f3:ab:4b,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/53.0.837.0 Mobile/31V755 Safari/532.1",Android 3.2.3
+D-4292,50:db:e3:a5:3d:3c,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; id-ID) AppleWebKit/535.32.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6535.32.4",Android 4.2.2
+D-4293,da:79:04:19:69:b3,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_2 rv:3.0; ayc-PE) AppleWebKit/532.4.7 (KHTML, like Gecko) Version/5.0 Safari/532.4.7",Android 5.0.2
+D-4294,6e:9c:55:f5:c3:d2,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0 rv:3.0; unm-US) AppleWebKit/531.37.6 (KHTML, like Gecko) Version/5.0.4 Safari/531.37.6",Android 7.1.1
+D-4295,70:e0:7b:bf:cc:cc,Opera/8.54.(Windows NT 5.0; ks-IN) Presto/2.9.168 Version/11.00,Android 2.3.4
+D-4296,4e:c9:14:df:f8:88,Opera/9.36.(X11; Linux i686; ps-AF) Presto/2.9.161 Version/12.00,Android 3.2.4
+D-4297,99:20:36:4e:b2:d1,Opera/8.20.(X11; Linux i686; quz-PE) Presto/2.9.183 Version/10.00,Android 7.1.2
+D-4298,b6:a4:6f:7d:0a:fe,Opera/9.33.(Windows NT 5.0; sid-ET) Presto/2.9.162 Version/10.00,Android 3.2.5
+D-4299,85:6f:bd:cb:f4:88,Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.0),Android 7.0
+D-4300,f6:af:2a:33:21:e9,Opera/9.48.(Windows NT 5.0; bn-BD) Presto/2.9.178 Version/12.00,Android 2.1
+D-4301,9d:54:ad:69:33:db,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.0),Android 4.1
+D-4302,ac:f3:8b:e1:e3:de,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0),Android 4.0.2
+D-4303,09:b9:a6:9b:86:6b,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/4.1),Android 4.4.1
+D-4304,fc:34:ac:d2:59:48,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/55.0.806.0 Safari/535.1",Android 4.3
+D-4305,86:7b:24:86:f7:44,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8; rv:1.9.2.20) Gecko/2015-09-24 14:15:20 Firefox/3.8,Android 7.0
+D-4306,f9:b9:32:d1:ce:16,Mozilla/5.0 (Windows 98; ht-HT; rv:1.9.2.20) Gecko/2023-02-27 19:37:15 Firefox/3.6.9,Android 4.1
+D-4307,6e:ff:91:be:ce:12,"Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/15.0.862.0 Mobile/39C610 Safari/534.0",Android 3.2.6
+D-4308,5b:a0:a0:32:cb:4f,"Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/46.0.876.0 Safari/536.1",Android 2.2.1
+D-4309,44:6d:8a:2b:6d:76,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0),Android 2.0
+D-4310,8b:61:18:ef:9e:54,Opera/8.50.(X11; Linux x86_64; ti-ER) Presto/2.9.173 Version/11.00,Android 4.0.2
+D-4311,d3:e2:20:89:0b:64,"Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/45.0.897.0 Mobile/73R565 Safari/536.0",Android 3.2.3
+D-4312,db:35:2d:40:41:64,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/10.2y5946.0 Mobile/11S978 Safari/532.1",Android 4.4.1
+D-4313,af:2b:6d:c3:e6:60,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.44.3 (KHTML, like Gecko) Version/4.0 Safari/531.44.3",Android 2.3.5
+D-4314,c3:44:54:0e:26:85,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ce-RU) AppleWebKit/532.13.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6532.13.2",Android 4.0.2
+D-4315,ca:95:ef:f7:17:05,Opera/9.58.(X11; Linux x86_64; nds-DE) Presto/2.9.177 Version/10.00,Android 2.2.2
+D-4316,bf:01:f7:d7:f7:21,Opera/9.81.(Windows 98; pt-BR) Presto/2.9.161 Version/11.00,Android 1.6
+D-4317,99:34:c7:71:16:73,Mozilla/5.0 (Windows NT 6.1; he-IL; rv:1.9.1.20) Gecko/2021-02-17 22:27:06 Firefox/3.6.11,Android 4.1.2
+D-4318,23:bf:33:60:cb:48,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.30.1 (KHTML, like Gecko) Version/5.0 Safari/534.30.1",Android 2.3
+D-4319,39:d8:0c:e9:bb:8d,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.10.7 (KHTML, like Gecko) Version/4.0.2 Safari/531.10.7",Android 7.1.2
+D-4320,a7:2b:f5:9f:ad:81,Opera/8.20.(X11; Linux i686; xh-ZA) Presto/2.9.163 Version/10.00,Android 3.0
+D-4321,18:2d:4d:7d:60:2c,"Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.24.5 (KHTML, like Gecko) Version/5.0.5 Safari/533.24.5",Android 1.5
+D-4322,b0:d2:e7:1d:9b:25,Mozilla/5.0 (Windows 98; sl-SI; rv:1.9.1.20) Gecko/2016-07-01 14:00:26 Firefox/3.6.1,Android 4.3.1
+D-4323,f1:79:16:74:73:5a,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.1),Android 3.2
+D-4324,ff:87:ae:3b:00:9a,"Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.35.7 (KHTML, like Gecko) Version/5.1 Safari/533.35.7",Android 4.0.1
+D-4325,b8:99:f4:d3:3c:35,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/49.0.858.0 Safari/531.1",Android 10
+D-4326,0c:68:05:84:c2:b2,Opera/9.18.(Windows NT 5.01; mai-IN) Presto/2.9.189 Version/12.00,Android 2.3.2
+D-4327,43:d1:f3:11:e2:e1,Opera/8.82.(Windows NT 6.0; lzh-TW) Presto/2.9.161 Version/12.00,Android 4.2
+D-4328,d0:49:c0:72:fe:ef,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; vi-VN) AppleWebKit/532.48.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.48.7",Android 5.1.1
+D-4329,10:d0:55:93:67:53,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/11.0i6069.0 Mobile/99M344 Safari/532.0",Android 3.2
+D-4330,7c:f6:18:10:c3:87,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.1),Android 4.1.1
+D-4331,f5:ae:7d:36:3b:05,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/4.1),Android 8.0.0
+D-4332,49:03:a5:7e:e3:d2,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/4.0),Android 4.0.2
+D-4333,d9:e4:cb:0e:5c:15,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/11.6v6399.0 Mobile/70R195 Safari/532.0",Android 6.0.1
+D-4334,39:f2:c8:9e:99:3a,Opera/8.70.(Windows CE; fur-IT) Presto/2.9.177 Version/12.00,Android 1.0
+D-4335,09:a5:28:15:5b:f9,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.0),Android 10
+D-4336,0a:4b:51:01:2a:fa,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.0),Android 3.2.4
+D-4337,8d:ff:46:22:1c:89,Opera/8.22.(Windows 98; Win 9x 4.90; oc-FR) Presto/2.9.180 Version/12.00,Android 3.2.1
+D-4338,57:cf:e5:81:8d:57,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_3) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/57.0.871.0 Safari/532.2",Android 3.2
+D-4339,e4:4e:75:44:cd:f8,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/15.0.892.0 Safari/533.2",Android 1.5
+D-4340,3d:4f:b4:40:79:74,"Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/13.9k1585.0 Mobile/37F958 Safari/533.2",Android 6.0
+D-4341,ef:79:d2:51:c5:42,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.0),Android 4.4.3
+D-4342,23:5b:99:f0:e6:78,Opera/9.34.(X11; Linux x86_64; os-RU) Presto/2.9.188 Version/11.00,Android 4.3.1
+D-4343,9c:65:af:9b:ec:fd,Mozilla/5.0 (Android 1.0; Mobile; rv:13.0) Gecko/13.0 Firefox/13.0,Android 2.3.3
+D-4344,f4:d4:41:93:55:cf,Opera/8.14.(X11; Linux i686; da-DK) Presto/2.9.168 Version/12.00,Android 2.3.3
+D-4345,d3:76:1b:2b:89:1e,"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/30.0.816.0 Mobile/27Y311 Safari/536.1",Android 6.0
+D-4346,72:6f:a8:8b:e5:9c,Mozilla/5.0 (Windows 98; Win 9x 4.90; eu-FR; rv:1.9.0.20) Gecko/2024-03-10 16:39:17 Firefox/3.8,Android 4.2
+D-4347,13:1c:dd:99:e8:d0,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/33.0.833.0 Safari/536.1",Android 5.0.1
+D-4348,dd:e2:ba:89:73:64,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1),Android 4.2.1
+D-4349,09:8d:a3:6c:5d:b1,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2019-09-26 01:23:40 Firefox/11.0,Android 1.6
+D-4350,7b:75:b1:16:a5:25,Opera/8.72.(Windows 98; Win 9x 4.90; hsb-DE) Presto/2.9.170 Version/10.00,Android 4.4.4
+D-4351,2d:bb:b6:a6:ff:1b,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.41.6 (KHTML, like Gecko) Version/5.0 Safari/533.41.6",Android 3.1
+D-4352,77:12:f8:26:2e:7f,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.0),Android 5.0
+D-4353,9e:82:23:f0:38:aa,Opera/9.65.(X11; Linux x86_64; ln-CD) Presto/2.9.190 Version/10.00,Android 6.0
+D-4354,76:58:43:8e:d1:7d,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/31.0.819.0 Safari/534.0",Android 4.0.4
+D-4355,b7:d7:e4:eb:27:9c,"Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/16.6e1039.0 Mobile/90J101 Safari/535.0",Android 5.0
+D-4356,b4:2d:b4:d7:17:b3,"Mozilla/5.0 (Linux; Android 2.2.3) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/13.0.892.0 Safari/536.2",Android 2.2.2
+D-4357,62:ea:6b:b4:d7:90,"Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/48.0.826.0 Safari/534.2",Android 4.0.2
+D-4358,86:12:de:c2:d5:e6,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1),Android 8.0.0
+D-4359,33:2b:d9:9b:b5:dc,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/54.0.856.0 Safari/533.2",Android 2.3.4
+D-4360,f0:f4:f6:7b:09:66,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/36.0.836.0 Safari/534.1",Android 4.4.1
+D-4361,1d:af:97:10:12:6a,"Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.26.6 (KHTML, like Gecko) Version/4.1 Safari/534.26.6",Android 5.1
+D-4362,1e:0e:0f:28:95:72,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.0),Android 1.1
+D-4363,fb:8e:36:e0:d3:a0,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0),Android 4.0.4
+D-4364,fe:63:b7:33:c1:50,Mozilla/5.0 (Android 2.2.3; Mobile; rv:6.0) Gecko/6.0 Firefox/6.0,Android 3.2.6
+D-4365,16:3a:5c:6f:41:f9,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; sw-TZ) AppleWebKit/535.19.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6535.19.7",Android 6.0
+D-4366,90:9b:9b:4f:07:4a,Mozilla/5.0 (Windows CE; bo-CN; rv:1.9.2.20) Gecko/2024-08-06 08:00:45 Firefox/8.0,Android 1.1
+D-4367,87:e8:2f:3f:34:40,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0),Android 7.1.2
+D-4368,9b:f8:d1:6c:94:20,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/20.0.871.0 Safari/532.1",Android 3.0
+D-4369,9f:e6:13:b8:d4:00,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_1 rv:2.0; ckb-IQ) AppleWebKit/533.4.7 (KHTML, like Gecko) Version/5.0.4 Safari/533.4.7",Android 2.3.6
+D-4370,a1:f2:40:4e:ea:a7,Opera/8.38.(X11; Linux x86_64; ber-MA) Presto/2.9.183 Version/11.00,Android 2.3.2
+D-4371,e6:87:84:e6:01:75,Mozilla/5.0 (Windows NT 10.0; nl-BE; rv:1.9.0.20) Gecko/2021-05-08 19:55:20 Firefox/5.0,Android 2.2.3
+D-4372,a4:73:ca:13:c6:93,"Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/54.0.831.0 Safari/531.1",Android 6.0
+D-4373,ef:02:24:e3:f8:71,Opera/8.66.(Windows NT 6.0; km-KH) Presto/2.9.185 Version/10.00,Android 4.1
+D-4374,34:38:25:e2:36:d8,"Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/55.0.866.0 Safari/531.1",Android 4.4.3
+D-4375,af:bf:52:75:37:f5,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_9) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/43.0.882.0 Safari/532.2",Android 5.0.2
+D-4376,da:4f:8b:fd:4d:64,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.34.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.34.4",Android 8.0.0
+D-4377,f6:c7:e1:11:dc:03,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.0),Android 4.0.2
+D-4378,75:a3:ec:40:3c:3e,Opera/8.57.(Windows NT 5.0; ar-KW) Presto/2.9.182 Version/12.00,Android 5.0.2
+D-4379,86:c9:9a:cd:6a:e5,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/29.0.884.0 Safari/531.1",Android 3.2
+D-4380,0c:58:c7:1b:03:18,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/61.0.824.0 Mobile/01N561 Safari/531.2",Android 7.1
+D-4381,9b:c0:1a:cf:f4:41,Mozilla/5.0 (Windows 98; Win 9x 4.90; da-DK; rv:1.9.2.20) Gecko/2014-06-27 13:12:24 Firefox/3.8,Android 4.3.1
+D-4382,72:0e:4f:61:d3:86,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/17.0.852.0 Safari/536.2",Android 4.4.1
+D-4383,5b:af:47:4c:cd:e8,"Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/53.0.854.0 Mobile/93T794 Safari/532.1",Android 3.2.6
+D-4384,39:3b:26:9e:71:71,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/57.0.821.0 Safari/534.1",Android 4.2
+D-4385,32:4d:08:88:c7:78,Opera/9.60.(Windows 98; mr-IN) Presto/2.9.188 Version/12.00,Android 5.0
+D-4386,0b:6e:4a:61:a5:98,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_7) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/50.0.840.0 Safari/535.0",Android 4.4.2
+D-4387,2b:25:20:f5:6e:c8,Opera/9.93.(Windows CE; zu-ZA) Presto/2.9.164 Version/11.00,Android 4.0.1
+D-4388,dc:35:34:52:ba:95,Mozilla/5.0 (Android 4.1.1; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0,Android 2.2.1
+D-4389,03:20:e5:0b:97:46,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_6 rv:4.0; wal-ET) AppleWebKit/534.17.7 (KHTML, like Gecko) Version/4.0.4 Safari/534.17.7",Android 2.0.1
+D-4390,09:09:ba:29:10:3a,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.45.5 (KHTML, like Gecko) Version/5.0.2 Safari/533.45.5",Android 2.3.4
+D-4391,a4:13:4e:76:01:61,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.0),Android 4.0.1
+D-4392,a9:68:3a:de:48:0f,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_4 rv:2.0; my-MM) AppleWebKit/531.27.6 (KHTML, like Gecko) Version/4.0 Safari/531.27.6",Android 2.3.6
+D-4393,81:20:09:c7:32:df,Opera/9.47.(Windows NT 6.0; nso-ZA) Presto/2.9.160 Version/12.00,Android 5.1.1
+D-4394,a9:0e:33:a8:30:fa,Opera/8.76.(Windows 98; Win 9x 4.90; sv-SE) Presto/2.9.186 Version/12.00,Android 1.0
+D-4395,42:97:31:3c:b7:03,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.1),Android 4.3
+D-4396,d4:32:63:3e:a8:53,Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.0),Android 4.4.3
+D-4397,53:44:18:a6:62:e9,Opera/8.99.(X11; Linux x86_64; hi-IN) Presto/2.9.189 Version/11.00,Android 7.1
+D-4398,9c:fe:cf:59:ae:65,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.3.7 (KHTML, like Gecko) Version/4.0 Safari/533.3.7",Android 2.0.1
+D-4399,e3:8d:09:79:0a:82,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.0),Android 4.4.4
