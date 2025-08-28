@@ -42,8 +42,9 @@ def load_csv(conn,name,path):
             raise
     
     #Insert records into table
-    
-
+    col_rows = ", " .join([f'"{c}" VARCHAR2(4000)' for c in cols]) #  eg: customer_id VARCHAR2(4000)
+    placeholder = ", ".join([f":{i+1}" for i in range(len(cols))])
+    insert_sql = f'INSERT INTO {table_name} ("'+'")'
 
 
 def main():
