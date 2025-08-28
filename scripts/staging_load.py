@@ -4,8 +4,6 @@ import pandas as pd
 from pathlib import Path
 from dotenv import load_dotenv
 
-
-# Load environment variables
 load_dotenv()
 
 USER = os.getenv("ORACLE_APP_USER", "APPUSER")
@@ -13,8 +11,6 @@ PWD  = os.getenv("ORACLE_APP_PWD",  "apppwd")
 DSN  = os.getenv("ORACLE_DSN",      "localhost/XEPDB1")
 DATA_DIR = os.getenv("DATA_DIR")
 
-
-# File map (Path objects)
 FILES = {
     "customers": os.path.join(DATA_DIR,"customers.csv"), 
     "branches": os.path.join(DATA_DIR,"branches.csv"), 
@@ -35,7 +31,6 @@ def load_csv(conn, name, path):
     sep = "," if str(path).lower().endswith(".csv") else "\t"
     df = pd.read_csv(path, sep=sep, low_memory=False, encoding_errors="ignore")
 
-    # Normalize column names (strip whitespace, force string)
     df.columns = [str(c).strip() for c in df.columns]
     cols = list(df.columns)
 
@@ -44,6 +39,7 @@ def load_csv(conn, name, path):
     # Create staging table with VARCHAR2 columns (safe landing)
     col_defs = ", ".join([f'"{c}" VARCHAR2(4000)' for c in cols])
     create_sql = f'CREATE TABLE {table_name} ({col_defs})'
+    print(create_sql)
 
     cur = conn.cursor()
     try:
