@@ -4,8 +4,8 @@ BATCH PROCESSING INCLUDES FOR THE FOLLOWING FILES THAT HAS ALREADY BEEN LOADED I
 customers - done
 accounts - done
 merchants - done
-branches
-geos
+branches - done
+geos - done
 """
 
 import argparse, ipaddress, os, re, oracledb, pandas as pd, sqlalchemy, numpy as np
@@ -247,7 +247,6 @@ def stg_merchant(engine,cur):
     sql_query = "SELECT * FROM RAW_MERCHANTS"
     df = pd.read_sql_query(sql_query,engine)
     df = df.copy()
-    print(df.count())
 
     df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
     df["merchant_id"] = df["merchant_id"].astype(str).str.strip().str.upper()
@@ -278,8 +277,11 @@ def stg_merchant(engine,cur):
             else:
                 raise  
     
+    df.drop_duplicates()
     rows = df.to_dict(orient="records")
     rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    
 
     sql_insert_query = """
     MERGE INTO STG_MERCHANTS d
@@ -311,15 +313,151 @@ def stg_merchant(engine,cur):
     cur.executemany(sql_insert_query,rows)
     print("Data loaded successfully into Oracle!")
 
+def stg_branches(engine,cur):
+    sql_query = "SELECT * FROM RAW_BRANCHES"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["branch_id"] = df["branch_id"].astype(str).str.strip().str.upper()
+    df["name"] = df["name"].apply(lambda s: cleanStr(s).title() if s is not None else None)
+
+    
+    df.drop_duplicates()
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+    CREATE TABLE STG_BRANCHES (
+        branch_id       VARCHAR2(20) PRIMARY KEY,
+        name            VARCHAR2(50) NOT NULL,
+        city            VARCHAR2(20),
+        state           VARCHAR2(2),
+        country         VARCHAR2(20)
+    )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_BRANCHES")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_BRANCHES exists;")
+                # drop_sql = f'DROP TABLE STG_BRANCHES'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+
+    sql_insert_query = """
+    MERGE INTO STG_BRANCHES d
+    USING (
+        SELECT
+        :branch_id      AS branch_id,
+        :name           AS name,
+        :city           AS city,
+        :state          AS state,
+        :country        AS country
+    FROM dual
+    ) s
+    ON (d.branch_id = s.branch_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.name          = s.name,
+        d.city          = s.city,
+        d.state         = s.state,
+        d.country       = s.country
+    WHEN NOT MATCHED THEN INSERT (
+        branch_id, name, city, state, country
+    ) VALUES (
+        s.branch_id, s.name, s.city, s.state, s.country
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data branch loaded successfully into Oracle!")
+
+def stg_geo(engine,cur):
+    sql_query = "SELECT * FROM RAW_GEOS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+
+    df = df.dropna(subset=["geo_id"])
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["geo_id"] = df["geo_id"].astype(str).str.strip().str.upper()
+    df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
+    df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
+    df = df.drop_duplicates(subset=["geo_id"], keep="first") 
+
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+        CREATE TABLE STG_GEOS (
+            geo_id         VARCHAR2(20) PRIMARY KEY,
+            ip             VARCHAR2(15) NOT NULL,
+            city           VARCHAR2(20),
+            region         VARCHAR2(2),
+            country        VARCHAR2(20),
+            lat            NUMBER(9,6),
+            lon            NUMBER(9,6)
+        )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_GEOS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_GEOS exists;")
+                # drop_sql = f'DROP TABLE STG_GEOS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+
+    sql_insert_query = """
+    MERGE INTO STG_GEOS d
+    USING (
+        SELECT
+        :geo_id    AS geo_id,
+        :ip        AS ip,
+        :city      AS city,
+        :region    AS region,
+        :country   AS country,
+        :lat       AS lat,
+        :lon       AS lon
+    FROM dual
+    ) s
+    ON (d.geo_id = s.geo_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.ip        = s.ip,
+        d.city      = s.city,
+        d.region    = s.region,
+        d.country   = s.country,
+        d.lat       = s.lat,
+        d.lon       = s.lon
+    WHEN NOT MATCHED THEN INSERT (
+        geo_id, ip, city, region, country, lat, lon
+    ) VALUES (
+        s.geo_id, s.ip, s.city, s.region, s.country, s.lat, s.lon
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
+
+
+
+    
+
 
 def main():
     engine = sqlalchemy.create_engine(f"oracle+oracledb://{USER}:{PWD}@localhost:1521/?service_name=XEPDB1")
     with oracledb.connect(user=USER, password=PWD, dsn=DSN) as conn:
         cur = conn.cursor()
-        print(cur)
-        #stg_customer(engine,cur)
-        #stg_account(engine,cur)
-        stg_merchant(engine,cur)
+        # stg_customer(engine,cur)
+        # stg_account(engine,cur)
+        # stg_merchant(engine,cur)
+        # stg_branches(engine,cur)
+        stg_geo(engine,cur)
         conn.commit()
 
 if __name__ == "__main__":
