@@ -10,16 +10,16 @@ DSN  = os.getenv("ORACLE_DSN",      "localhost/XEPDB1")
 DATA_DIR = os.getenv("DATA_DIR")
 
 FILES = {
-    "customers": os.path.join(DATA_DIR,"customers.csv"), 
-    "branches": os.path.join(DATA_DIR,"branches.csv"), 
-    "accounts": os.path.join(DATA_DIR,"accounts.csv"), 
-    "merchants": os.path.join(DATA_DIR,"merchants.csv"), 
-    "devices": os.path.join(DATA_DIR,"devices.csv"), 
-    "geos": os.path.join(DATA_DIR,"geos.csv"), 
-    "transactions": os.path.join(DATA_DIR,"transactions.csv"), 
-    "logins": os.path.join(DATA_DIR,"logins.csv"), 
-    "sanctions": os.path.join(DATA_DIR,"sanctions.csv"),  
-    "alerts": os.path.join(DATA_DIR,"alerts.csv"),
+    "customers": os.path.join(DATA_DIR,"customers_raw.csv"), 
+    "branches": os.path.join(DATA_DIR,"branches_raw.csv"), 
+    "accounts": os.path.join(DATA_DIR,"accounts_raw.csv"), 
+    "merchants": os.path.join(DATA_DIR,"merchants_raw.csv"), 
+    "devices": os.path.join(DATA_DIR,"devices_raw.csv"), 
+    "geos": os.path.join(DATA_DIR,"geos_raw.csv"), 
+    "transactions": os.path.join(DATA_DIR,"transactions_raw.csv"), 
+    "logins": os.path.join(DATA_DIR,"logins_raw.csv"), 
+    "sanctions": os.path.join(DATA_DIR,"sanctions_raw.csv"),  
+    # "alerts": os.path.join(DATA_DIR,"alerts_raw.csv"),
 }
 
 print("DATA_DIR:", DATA_DIR)

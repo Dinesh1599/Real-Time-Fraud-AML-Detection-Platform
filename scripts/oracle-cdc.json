@@ -1,0 +1,33 @@
+{
+  "name": "oracle-cdc",
+  "config": {
+    "connector.class": "io.debezium.connector.oracle.OracleConnector",
+    "tasks.max": "1",
+
+    "topic.prefix": "orcl",
+    "database.hostname": "oracle",
+    "database.port": "1521",
+    "database.user": "APPUSER",
+    "database.password": "apppwd",
+    "database.dbname": "XEPDB1",
+    "database.pdb.name": "XEPDB1",
+    "database.connection.adapter": "logminer",
+
+    "schema.history.internal.kafka.bootstrap.servers": "kafka:9092",
+    "schema.history.internal.kafka.topic": "schema-changes.orcl",
+
+    "snapshot.mode": "initial",
+    "schema.include.list": "APPUSER",
+    "table.include.list": "APPUSER.CUSTOMERS,APPUSER.ACCOUNTS,APPUSER.TRANSACTIONS,APPUSER.BRANCHES,APPUSER.MERCHANTS,APPUSER.DEVICES,APPUSER.GEOS,APPUSER.LOGINS,APPUSER.SANCTIONS,APPUSER.ALERTS",
+
+    "transforms": "unwrap",
+    "transforms.unwrap.type": "io.debezium.transforms.ExtractNewRecordState",
+    "transforms.unwrap.add.fields": "op,table,source.ts_ms",
+    "transforms.unwrap.delete.tombstone.handling.mode": "rewrite",
+
+    "key.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter.schemas.enable": "false",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter.schemas.enable": "false"
+  }
+}

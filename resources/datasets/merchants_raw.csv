@@ -1,0 +1,501 @@
+merchant_id,name,mcc,category,city,state,country_code
+M-3001,Uber,5691,Clothing,Denver,CO,US
+M-3002,Amazon,4121,Taxi/Limo,Orlando,FL,US
+M-3003,Kroger,5411,Grocery Stores,Los Angeles,CA,US
+M-3004,Costco,5814,Fast Food,New York,NY,US
+M-3005,CVS,4111,Transit,San Diego,CA,US
+M-3006,CVS,5541,Service Stations,Houston,TX,US
+M-3007,Chipotle,6011,ATM,Phoenix,AZ,US
+M-3008,Home Depot,4121,Taxi/Limo,Columbus,OH,US
+M-3009,Trader Joes,6011,ATM,Detroit,MI,US
+M-3010,Target,5812,Restaurants,Houston,TX,US
+M-3011,Gap,5691,Clothing,Orlando,FL,US
+M-3012,7-Eleven,5812,Restaurants,New York,NY,US
+M-3013,CVS,5812,Restaurants,Orlando,FL,US
+M-3014,Publix,6011,ATM,Orlando,FL,US
+M-3015,Trader Joes,5691,Clothing,Portland,OR,US
+M-3016,Subway,5814,Fast Food,Minneapolis,MN,US
+M-3017,Chipotle,5411,Grocery Stores,Boston,MA,US
+M-3018,  Shell  ,5814,Fast Food,St. Petersburg,FL,US
+M-3019,Trader Joes,5814,Fast Food,San Antonio,TX,US
+M-3020,Nike,5691,Clothing,San Antonio,TX,US
+M-3021,Best Buy,5541,Service Stations,San Francisco,CA,US
+M-3022,Publix,4111,Transit,New York,NY,US
+M-3023,KroGEr,5812,Restaurants,Charlotte,NC,US
+M-3024,Shell,4121,Taxi/Limo,Tampa,FL,US
+M-3025,Trader Joes,5732,Electronics,Portland,OR,US
+M-3026,Amazon,5812,Restaurants,Phoenix,AZ,US
+M-3027,Trader Joes,5411,Grocery Stores,Detroit,MI,US
+M-3028,Nike,5812,Restaurants,Houston,TX,US
+M-3029,Lowes,5411,Grocery Stores,Philadelphia,PA,US
+M-3030,Lowes,5812,Restaurants,Jacksonville,FL,US
+M-3031,Amazon,5541,Service Stations,Minneapolis,MN,US
+M-3032,Subway,5999,Misc Retail,Pittsburgh,PA,US
+M-3033,Chipotle,5691,Clothing,Denver,CO,US
+M-3034,Starbucks,5691,Clothing,Seattle,WA,US
+M-3035,Walmart,5732,Electronics,Charlotte,NC,US
+M-3036,CVS,5541,Service Stations,Orlando,FL,US
+M-3037,Lowes,5814,Fast Food,Seattle,WA,US
+M-3038,McDonalds,5999,Misc Retail,Denver,CO,US
+M-3039,Costco,5999,Misc Retail,Houston,TX,US
+M-3040,Lowes,5812,Restaurants,Charlotte,NC,US
+M-3041,Subway,5812,Restaurants,Houston,TX,US
+M-3042,Starbucks,5541,Service Stations,Houston,TX,US
+M-3043,Starbucks,5812,Restaurants,St. Petersburg,FL,US
+M-3044,Starbucks,4121,Taxi/Limo,Nashville,TN,US
+M-3045,Subway,5411,Grocery Stores,Columbus,OH,US
+M-3046,Starbucks,5814,Fast Food,Atlanta,GA,US
+M-3047,Lowes,4111,Transit,Chicago,IL,US
+M-3048,Chipotle,5411,Grocery Stores,Philadelphia,PA,US
+M-3049,7-Eleven,5541,Service Stations,San Francisco,CA,US
+M-3050,Chipotle,5999,Misc Retail,Minneapolis,MN,US
+M-3051,Whole Foods,4111,Transit,Columbus,OH,US
+M-3052, Amazon ,5411,Grocery Stores,Chicago,IL,US
+M-3053,Best Buy,5691,Clothing,Detroit,MI,US
+M-3054,Publix,5411,Grocery Stores,Portland,OR,US
+M-3055,Gap,5541,Service Stations,Tampa,FL,US
+M-3056,Chipotle,5814,Fast Food,Seattle,WA,US
+M-3057,Trader Joes,5814,Fast Food,Los Angeles,CA,US
+M-3058,Best Buy,5691,Clothing,Atlanta,GA,US
+M-3059,waLgReens,5999,Misc Retail,St. Petersburg,FL,US
+M-3060,Subway,5732,Electronics,Los Angeles,CA,US
+M-3061,Lowes,5814,Fast Food,Jacksonville,FL,US
+M-3062,McDonalds,5999,Misc Retail,Pittsburgh,PA,US
+M-3063,Uber,5814,Fast Food,Dallas,TX,US
+M-3064,Costco,4111,Transit,Denver,CO,US
+M-3065,Target,5812,Restaurants,San Antonio,TX,US
+M-3066,Publix,5691,Clothing,Austin,TX,US
+M-3067,McDonalds,4121,Taxi/Limo,Austin,TX,US
+M-3068,Apple Store,4111,Transit,Nashville,TN,US
+M-3069,Costco,6011,ATM,Charlotte,NC,US
+M-3070,Subway,5812,Restaurants,Dallas,TX,US
+M-3071,Gap,5999,Misc Retail,Atlanta,GA,US
+M-3072,Walgreens,5999,Misc Retail,San Jose,CA,US
+M-3073,Walgreens,4111,Transit,Jacksonville,FL,US
+M-3074,Target,6011,ATM,Seattle,WA,US
+M-3075,Amazon,5541,Service Stations,New York,NY,US
+M-3076,Walmart,5732,Electronics,Cleveland,OH,US
+M-3077,Walgreens,5999,Misc Retail,New York,NY,US
+M-3078,BeSt buY,5732,Electronics,Cleveland,OH,US
+M-3079,Costco,5814,Fast Food,Charlotte,NC,US
+M-3080,Target,4121,Taxi/Limo,Miami,FL,US
+M-3081,Publix,5411,Grocery Stores,Tampa,FL,US
+M-3082,Lowes,5411,Grocery Stores,Phoenix,AZ,US
+M-3083,Costco,5541,Service Stations,Austin,TX,US
+M-3084,Best Buy,5812,Restaurants,Jacksonville,FL,US
+M-3085,Lowes,5812,Restaurants,Minneapolis,MN,US
+M-3086,Trader Joes,5541,Service Stations,San Antonio,TX,US
+M-3087,Starbucks,5732,Electronics,San Antonio,TX,US
+M-3088,Chevron,5814,Fast Food,San Jose,CA,US
+M-3089,Lowes,5411,Grocery Stores,Portland,OR,US
+M-3090,Walmart,5691,Clothing,Atlanta,GA,US
+M-3091, Walgreens ,4111,Transit,Houston,TX,US
+M-3092,Chevron,4121,Taxi/Limo,New York,NY,US
+M-3093,Costco,5732,Electronics,Austin,TX,US
+M-3094,Chevron,5999,Misc Retail,Portland,OR,US
+M-3095,7-Eleven,5812,Restaurants,Nashville,TN,US
+M-3096,Chevron,5732,Electronics,St. Petersburg,FL,US
+M-3097,Trader Joes,5411,Grocery Stores,Denver,CO,US
+M-3098,Shell,5541,Service Stations,Pittsburgh,PA,US
+M-3099,Lowes,5999,Misc Retail,San Diego,CA,US
+M-3100,Best Buy,5411,Grocery Stores,Nashville,TN,US
+M-3101,Lowes,4121,Taxi/Limo,San Francisco,CA,US
+M-3102,Subway,4121,Taxi/Limo,Minneapolis,MN,US
+M-3103,Chipotle,5411,Grocery Stores,Philadelphia,PA,US
+M-3104,Uber,4111,Transit,Orlando,FL,US
+M-3105,Apple Store,6011,ATM,Orlando,FL,US
+M-3106,Trader Joes,4111,Transit,St. Petersburg,FL,US
+M-3107,Amazon,5732,Electronics,Houston,TX,US
+M-3108, uBER  ,5411,Grocery Stores,New York,NY,US
+M-3109,Nike,5411,Grocery Stores,San Francisco,CA,US
+M-3110,Target,5814,Fast Food,Columbus,OH,US
+M-3111,Trader Joes,5411,Grocery Stores,St. Petersburg,FL,US
+M-3112,Lowes,5411,Grocery Stores,Nashville,TN,US
+M-3113,Whole Foods,4121,Taxi/Limo,Nashville,TN,US
+M-3114,Shell,4121,Taxi/Limo,Minneapolis,MN,US
+M-3115,Trader Joes,5732,Electronics,Minneapolis,MN,US
+M-3116,Shell,5812,Restaurants,Columbus,OH,US
+M-3117,Starbucks,5814,Fast Food,San Antonio,TX,US
+M-3118,Best Buy,5999,Misc Retail,Philadelphia,PA,US
+M-3119,Costco,5814,Fast Food,St. Petersburg,FL,US
+M-3120,Shell,5691,Clothing,Dallas,TX,US
+M-3121,Lowes,5814,Fast Food,San Antonio,TX,US
+M-3122,Shell,6011,ATM,Houston,TX,US
+M-3123,Uber,5999,Misc Retail,Minneapolis,MN,US
+M-3124,lowES,5691,Clothing,Portland,OR,US
+M-3125,Shell,5814,Fast Food,Boston,MA,US
+M-3126,Nike,6011,ATM,Boston,MA,US
+M-3127,Lyft,5999,Misc Retail,Austin,TX,US
+M-3128,7-Eleven,4121,Taxi/Limo,Los Angeles,CA,US
+M-3129,Best Buy,5812,Restaurants,Dallas,TX,US
+M-3130,Walmart,5732,Electronics,San Jose,CA,US
+M-3131,Target,5691,Clothing,Pittsburgh,PA,US
+M-3132,Kroger,5999,Misc Retail,Denver,CO,US
+M-3133,Chevron,5999,Misc Retail,Detroit,MI,US
+M-3134,Whole Foods,5732,Electronics,Chicago,IL,US
+M-3135,Trader Joes,6011,ATM,Seattle,WA,US
+M-3136,Subway,5541,Service Stations,Los Angeles,CA,US
+M-3137,Gap,5411,Grocery Stores,Miami,FL,US
+M-3138,Lyft,4121,Taxi/Limo,Minneapolis,MN,US
+M-3139,Shell,4121,Taxi/Limo,Seattle,WA,US
+M-3140,Lyft,5691,Clothing,Orlando,FL,US
+M-3141,Shell,6011,ATM,San Antonio,TX,US
+M-3142,Chevron,5999,Misc Retail,St. Petersburg,FL,US
+M-3143,CVS,5812,Restaurants,Denver,CO,US
+M-3144,Walgreens,5814,Fast Food,Boston,MA,US
+M-3145,Costco,5411,Grocery Stores,Tampa,FL,US
+M-3146,Walgreens,5411,Grocery Stores,Miami,FL,US
+M-3147,Chevron,5691,Clothing,Seattle,WA,US
+M-3148,Home Depot,5691,Clothing,Seattle,WA,US
+M-3149,Uber,5812,Restaurants,Nashville,TN,US
+M-3150,Gap,6011,ATM,Seattle,WA,US
+M-3151, Starbucks ,5812,Restaurants,New York,NY,US
+M-3152,Kroger,5541,Service Stations,Cleveland,OH,US
+M-3153, Best Buy ,4121,Taxi/Limo,St. Petersburg,FL,US
+M-3154,Lowes,5411,Grocery Stores,Cleveland,OH,US
+M-3155,7-Eleven,5999,Misc Retail,San Diego,CA,US
+M-3156,Nike,5541,Service Stations,Austin,TX,US
+M-3157,Lowes,5999,Misc Retail,Philadelphia,PA,US
+M-3158,Best Buy,4121,Taxi/Limo,San Francisco,CA,US
+M-3159,Apple Store,5411,Grocery Stores,Boston,MA,US
+M-3160,Uber,5541,Service Stations,Houston,TX,US
+M-3161,Target,4121,Taxi/Limo,Pittsburgh,PA,US
+M-3162,CVS,5732,Electronics,Nashville,TN,US
+M-3163,CVS,5814,Fast Food,Philadelphia,PA,US
+M-3164,Apple Store,5411,Grocery Stores,Phoenix,AZ,US
+M-3165,Uber,5541,Service Stations,New York,NY,US
+M-3166,hOMe depot,5541,Service Stations,Seattle,WA,US
+M-3167,Subway,5999,Misc Retail,St. Petersburg,FL,US
+M-3168,McDonalds,5411,Grocery Stores,New York,NY,US
+M-3169,Lyft,6011,ATM,Seattle,WA,US
+M-3170,Costco,4111,Transit,San Francisco,CA,US
+M-3171,Best Buy,5732,Electronics,Tampa,FL,US
+M-3172,Starbucks,4111,Transit,Los Angeles,CA,US
+M-3173,7-Eleven,5999,Misc Retail,Phoenix,AZ,US
+M-3174,Home Depot,5732,Electronics,Charlotte,NC,US
+M-3175,Apple stORe,5999,Misc Retail,San Antonio,TX,US
+M-3176,Chipotle,5999,Misc Retail,Chicago,IL,US
+M-3177,Lyft,5732,Electronics,Tampa,FL,US
+M-3178,Walmart,5732,Electronics,Pittsburgh,PA,US
+M-3179,Walgreens,5732,Electronics,San Jose,CA,US
+M-3180,Kroger,5814,Fast Food,St. Petersburg,FL,US
+M-3181,Starbucks,6011,ATM,Cleveland,OH,US
+M-3182,Walgreens,5411,Grocery Stores,Detroit,MI,US
+M-3183,Chevron,5814,Fast Food,San Antonio,TX,US
+M-3184,CVS,5541,Service Stations,Dallas,TX,US
+M-3185,Subway,4111,Transit,Cincinnati,OH,US
+M-3186,Apple Store,5814,Fast Food,Charlotte,NC,US
+M-3187,Subway,5691,Clothing,St. Petersburg,FL,US
+M-3188,Subway,5812,Restaurants,Philadelphia,PA,US
+M-3189,Publix,5732,Electronics,Pittsburgh,PA,US
+M-3190,CVS,5812,Restaurants,Minneapolis,MN,US
+M-3191,Shell,5812,Restaurants,Cincinnati,OH,US
+M-3192,Chevron,4121,Taxi/Limo,Denver,CO,US
+M-3193,Walmart,5812,Restaurants,San Antonio,TX,US
+M-3194,Publix,5732,Electronics,Cleveland,OH,US
+M-3195,Trader Joes,5411,Grocery Stores,Dallas,TX,US
+M-3196,Chevron,4111,Transit,Orlando,FL,US
+M-3197,Chipotle,5812,Restaurants,Tampa,FL,US
+M-3198,Starbucks,5411,Grocery Stores,Los Angeles,CA,US
+M-3199,Trader Joes,5541,Service Stations,Orlando,FL,US
+M-3200,Amazon,5812,Restaurants,Minneapolis,MN,US
+M-3201,Whole Foods,4121,Taxi/Limo,Atlanta,GA,US
+M-3202,Nike,6011,ATM,Portland,OR,US
+M-3203,Shell,5541,Service Stations,Miami,FL,US
+M-3204,Amazon,5411,Grocery Stores,Cincinnati,OH,US
+M-3205,Gap,6011,ATM,Orlando,FL,US
+M-3206,Walgreens,5812,Restaurants,San Antonio,TX,US
+M-3207,ubeR,5999,Misc Retail,Houston,TX,US
+M-3208,Trader Joes,5814,Fast Food,Portland,OR,US
+M-3209,Chevron,6011,ATM,Jacksonville,FL,US
+M-3210,Subway,4121,Taxi/Limo,Seattle,WA,US
+M-3211,Subway,5411,Grocery Stores,Dallas,TX,US
+M-3212,Subway,4121,Taxi/Limo,Seattle,WA,US
+M-3213,Lowes,4111,Transit,Austin,TX,US
+M-3214,Nike,6011,ATM,Columbus,OH,US
+M-3215,Lyft,4121,Taxi/Limo,San Diego,CA,US
+M-3216,Starbucks,5812,Restaurants,Portland,OR,US
+M-3217,Nike,5814,Fast Food,Atlanta,GA,US
+M-3218,Kroger,5411,Grocery Stores,Chicago,IL,US
+M-3219, Target  ,5541,Service Stations,Atlanta,GA,US
+M-3220,Walgreens,5411,Grocery Stores,Austin,TX,US
+M-3221,Nike,5814,Fast Food,New York,NY,US
+M-3222,Publix,5691,Clothing,Tampa,FL,US
+M-3223,Costco,6011,ATM,Philadelphia,PA,US
+M-3224,Uber,5812,Restaurants,Dallas,TX,US
+M-3225,7-Eleven,5691,Clothing,Pittsburgh,PA,US
+M-3226,7-Eleven,4121,Taxi/Limo,Jacksonville,FL,US
+M-3227,McDonalds,5411,Grocery Stores,Tampa,FL,US
+M-3228,Publix,5691,Clothing,Detroit,MI,US
+M-3229,Shell,5812,Restaurants,Columbus,OH,US
+M-3230,Home Depot,5691,Clothing,Portland,OR,US
+M-3231,  7-Eleven  ,4121,Taxi/Limo,Atlanta,GA,US
+M-3232,Walgreens,5691,Clothing,Houston,TX,US
+M-3233,Whole Foods,5691,Clothing,New York,NY,US
+M-3234,Amazon,5411,Grocery Stores,Philadelphia,PA,US
+M-3235,Amazon,5411,Grocery Stores,Houston,TX,US
+M-3236,Best Buy,5411,Grocery Stores,Chicago,IL,US
+M-3237,Chevron,5814,Fast Food,Denver,CO,US
+M-3238,Walgreens,5812,Restaurants,Tampa,FL,US
+M-3239,Costco,5999,Misc Retail,Orlando,FL,US
+M-3240,Subway,4121,Taxi/Limo,Seattle,WA,US
+M-3241,Chevron,5411,Grocery Stores,San Diego,CA,US
+M-3242,Gap,4111,Transit,Detroit,MI,US
+M-3243,CVS,5999,Misc Retail,San Antonio,TX,US
+M-3244,Trader Joes,5732,Electronics,San Diego,CA,US
+M-3245,Best Buy,4111,Transit,Cincinnati,OH,US
+M-3246,Best Buy,5691,Clothing,Houston,TX,US
+M-3247,Lowes,5814,Fast Food,Cleveland,OH,US
+M-3248,Shell,5541,Service Stations,Charlotte,NC,US
+M-3249,7-Eleven,4121,Taxi/Limo,Cleveland,OH,US
+M-3250, Costco  ,5541,Service Stations,Columbus,OH,US
+M-3251,CVS,4111,Transit,Houston,TX,US
+M-3252,Walgreens,5814,Fast Food,Minneapolis,MN,US
+M-3253,Starbucks,5814,Fast Food,Miami,FL,US
+M-3254,Best Buy,4111,Transit,Boston,MA,US
+M-3255,Gap,5541,Service Stations,Miami,FL,US
+M-3256,Amazon,4121,Taxi/Limo,San Antonio,TX,US
+M-3257,Amazon,5541,Service Stations,Nashville,TN,US
+M-3258,CVS,5814,Fast Food,Houston,TX,US
+M-3259,Uber,5814,Fast Food,San Francisco,CA,US
+M-3260,Target,4111,Transit,Tampa,FL,US
+M-3261,Kroger,4121,Taxi/Limo,San Antonio,TX,US
+M-3262,Uber,6011,ATM,Denver,CO,US
+M-3263,AMazoN,5999,Misc Retail,Dallas,TX,US
+M-3264,Chipotle,5541,Service Stations,San Jose,CA,US
+M-3265,Starbucks,5814,Fast Food,Boston,MA,US
+M-3266,Amazon,4121,Taxi/Limo,Minneapolis,MN,US
+M-3267,Best Buy,5691,Clothing,Nashville,TN,US
+M-3268,Uber,5812,Restaurants,Los Angeles,CA,US
+M-3269,Shell,5691,Clothing,Orlando,FL,US
+M-3270,Amazon,5999,Misc Retail,Cleveland,OH,US
+M-3271,7-Eleven,5814,Fast Food,San Jose,CA,US
+M-3272,Subway,5999,Misc Retail,Houston,TX,US
+M-3273,7-Eleven,5411,Grocery Stores,Tampa,FL,US
+M-3274,COSTco,5814,Fast Food,Cincinnati,OH,US
+M-3275,Kroger,4121,Taxi/Limo,Jacksonville,FL,US
+M-3276,McDonalds,6011,ATM,Pittsburgh,PA,US
+M-3277,Lowes,5732,Electronics,Jacksonville,FL,US
+M-3278,Lyft,5732,Electronics,Columbus,OH,US
+M-3279,Nike,5999,Misc Retail,Seattle,WA,US
+M-3280,Walmart,5541,Service Stations,Nashville,TN,US
+M-3281,Subway,5812,Restaurants,Columbus,OH,US
+M-3282,7-Eleven,4121,Taxi/Limo,Columbus,OH,US
+M-3283,Home Depot,5999,Misc Retail,Atlanta,GA,US
+M-3284,Home Depot,4111,Transit,Phoenix,AZ,US
+M-3285,Walmart,5814,Fast Food,Jacksonville,FL,US
+M-3286,  Subway ,6011,ATM,San Antonio,TX,US
+M-3287,Target,6011,ATM,Nashville,TN,US
+M-3288,Uber,6011,ATM,Charlotte,NC,US
+M-3289,Lowes,5541,Service Stations,San Diego,CA,US
+M-3290,Lyft,5812,Restaurants,Tampa,FL,US
+M-3291,Publix,5732,Electronics,Austin,TX,US
+M-3292,Walgreens,5999,Misc Retail,New York,NY,US
+M-3293,Uber,5812,Restaurants,Los Angeles,CA,US
+M-3294, Trader Joes  ,5812,Restaurants,Minneapolis,MN,US
+M-3295,CVS,5814,Fast Food,Jacksonville,FL,US
+M-3296,Gap,5814,Fast Food,San Francisco,CA,US
+M-3297,Lyft,5691,Clothing,Cincinnati,OH,US
+M-3298,Publix,4121,Taxi/Limo,Philadelphia,PA,US
+M-3299,McDonalds,5732,Electronics,Detroit,MI,US
+M-3300,Uber,6011,ATM,Phoenix,AZ,US
+M-3301,Costco,5812,Restaurants,Atlanta,GA,US
+M-3302,Subway,5541,Service Stations,Denver,CO,US
+M-3303,Chevron,5999,Misc Retail,Cleveland,OH,US
+M-3304,Amazon,5691,Clothing,Cleveland,OH,US
+M-3305,Uber,5411,Grocery Stores,Jacksonville,FL,US
+M-3306,  Kroger ,4111,Transit,Seattle,WA,US
+M-3307,Gap,4111,Transit,San Jose,CA,US
+M-3308,COsTCO,5999,Misc Retail,Jacksonville,FL,US
+M-3309,Publix,5812,Restaurants,San Francisco,CA,US
+M-3310,Home Depot,5732,Electronics,Los Angeles,CA,US
+M-3311,Walmart,4111,Transit,Seattle,WA,US
+M-3312,Trader Joes,6011,ATM,Jacksonville,FL,US
+M-3313,7-Eleven,5691,Clothing,Columbus,OH,US
+M-3314,Lyft,5732,Electronics,Houston,TX,US
+M-3315,McDonalds,5691,Clothing,Phoenix,AZ,US
+M-3316,Target,5411,Grocery Stores,Houston,TX,US
+M-3317,Amazon,4121,Taxi/Limo,Austin,TX,US
+M-3318,Chipotle,5999,Misc Retail,Houston,TX,US
+M-3319,Amazon,5999,Misc Retail,New York,NY,US
+M-3320,Nike,5814,Fast Food,San Diego,CA,US
+M-3321,Costco,5999,Misc Retail,San Jose,CA,US
+M-3322,Publix,4121,Taxi/Limo,Minneapolis,MN,US
+M-3323,Uber,6011,ATM,St. Petersburg,FL,US
+M-3324,Walmart,5812,Restaurants,Nashville,TN,US
+M-3325,  Whole Foods  ,5814,Fast Food,Phoenix,AZ,US
+M-3326,Lowes,5541,Service Stations,Orlando,FL,US
+M-3327,Chevron,5541,Service Stations,Minneapolis,MN,US
+M-3328,Amazon,4111,Transit,St. Petersburg,FL,US
+M-3329,Chipotle,5541,Service Stations,San Jose,CA,US
+M-3330,  Subway  ,5691,Clothing,Jacksonville,FL,US
+M-3331,Lyft,5814,Fast Food,Cincinnati,OH,US
+M-3332,CVS,5812,Restaurants,Miami,FL,US
+M-3333,Starbucks,5999,Misc Retail,Portland,OR,US
+M-3334,Shell,5812,Restaurants,Atlanta,GA,US
+M-3335,Costco,4121,Taxi/Limo,Miami,FL,US
+M-3336,Whole Foods,5814,Fast Food,Pittsburgh,PA,US
+M-3337,Best Buy,4111,Transit,San Antonio,TX,US
+M-3338,Home Depot,5541,Service Stations,Orlando,FL,US
+M-3339,Chevron,6011,ATM,New York,NY,US
+M-3340,Lowes,5732,Electronics,Miami,FL,US
+M-3341,  Whole Foods  ,5812,Restaurants,Columbus,OH,US
+M-3342, Walgreens  ,5411,Grocery Stores,Cincinnati,OH,US
+M-3343,lyFt,5411,Grocery Stores,Chicago,IL,US
+M-3344,Lowes,4121,Taxi/Limo,San Diego,CA,US
+M-3345,Lyft,5691,Clothing,Atlanta,GA,US
+M-3346,Uber,4111,Transit,Austin,TX,US
+M-3347,Kroger,5812,Restaurants,Cincinnati,OH,US
+M-3348,7-Eleven,5732,Electronics,San Jose,CA,US
+M-3349,Costco,5999,Misc Retail,Denver,CO,US
+M-3350,Lyft,5814,Fast Food,St. Petersburg,FL,US
+M-3351,Whole Foods,5999,Misc Retail,Minneapolis,MN,US
+M-3352,Target,5999,Misc Retail,Philadelphia,PA,US
+M-3353,Publix,5541,Service Stations,St. Petersburg,FL,US
+M-3354,Lowes,5732,Electronics,Los Angeles,CA,US
+M-3355,Apple Store,5691,Clothing,Minneapolis,MN,US
+M-3356,Walmart,5814,Fast Food,Jacksonville,FL,US
+M-3357,Publix,4121,Taxi/Limo,Detroit,MI,US
+M-3358,Whole Foods,5541,Service Stations,Dallas,TX,US
+M-3359,Kroger,4111,Transit,Orlando,FL,US
+M-3360,Walmart,5999,Misc Retail,New York,NY,US
+M-3361,McDonalds,5732,Electronics,San Diego,CA,US
+M-3362,Home Depot,6011,ATM,Los Angeles,CA,US
+M-3363,Uber,5732,Electronics,San Diego,CA,US
+M-3364,McDonalds,5411,Grocery Stores,New York,NY,US
+M-3365,Whole Foods,5691,Clothing,Dallas,TX,US
+M-3366,Target,5999,Misc Retail,Seattle,WA,US
+M-3367,Shell,5999,Misc Retail,St. Petersburg,FL,US
+M-3368,Chevron,6011,ATM,Denver,CO,US
+M-3369,Walmart,5814,Fast Food,Boston,MA,US
+M-3370,Whole Foods,4111,Transit,Seattle,WA,US
+M-3371,Whole Foods,5999,Misc Retail,Dallas,TX,US
+M-3372,CVS,5691,Clothing,Portland,OR,US
+M-3373,Publix,5812,Restaurants,Orlando,FL,US
+M-3374,Starbucks,5411,Grocery Stores,Orlando,FL,US
+M-3375,McDonalds,5732,Electronics,San Francisco,CA,US
+M-3376,Apple Store,4111,Transit,Pittsburgh,PA,US
+M-3377,Amazon,5999,Misc Retail,Seattle,WA,US
+M-3378,McDonalds,4111,Transit,San Francisco,CA,US
+M-3379,7-Eleven,4111,Transit,Minneapolis,MN,US
+M-3380,Apple Store,5691,Clothing,Columbus,OH,US
+M-3381,Costco,5999,Misc Retail,Cincinnati,OH,US
+M-3382,Uber,5812,Restaurants,Seattle,WA,US
+M-3383,Amazon,5732,Electronics,Pittsburgh,PA,US
+M-3384,Lyft,5999,Misc Retail,Philadelphia,PA,US
+M-3385,Nike,5732,Electronics,Miami,FL,US
+M-3386,7-Eleven,5999,Misc Retail,Tampa,FL,US
+M-3387,Costco,4111,Transit,San Jose,CA,US
+M-3388,Lyft,5541,Service Stations,Charlotte,NC,US
+M-3389,Starbucks,5812,Restaurants,San Jose,CA,US
+M-3390,Kroger,5812,Restaurants,Pittsburgh,PA,US
+M-3391,Shell,5814,Fast Food,Chicago,IL,US
+M-3392,  Amazon  ,4111,Transit,Denver,CO,US
+M-3393,Chipotle,5814,Fast Food,Atlanta,GA,US
+M-3394,Trader Joes,5732,Electronics,Cleveland,OH,US
+M-3395,Walgreens,5691,Clothing,Cincinnati,OH,US
+M-3396,Nike,6011,ATM,San Antonio,TX,US
+M-3397,Home Depot,5999,Misc Retail,Dallas,TX,US
+M-3398,Gap,5541,Service Stations,Jacksonville,FL,US
+M-3399,Walgreens,5541,Service Stations,Portland,OR,US
+M-3400,Nike,5541,Service Stations,Nashville,TN,US
+M-3401,CVS,4111,Transit,Jacksonville,FL,US
+M-3402,Lowes,4111,Transit,Orlando,FL,US
+M-3403,Nike,5541,Service Stations,Phoenix,AZ,US
+M-3404,Whole Foods,4121,Taxi/Limo,Austin,TX,US
+M-3405,Apple Store,5812,Restaurants,Chicago,IL,US
+M-3406,Target,5411,Grocery Stores,Tampa,FL,US
+M-3407,Shell,6011,ATM,Miami,FL,US
+M-3408,Target,5812,Restaurants,St. Petersburg,FL,US
+M-3409,Subway,5691,Clothing,Houston,TX,US
+M-3410, CVS  ,5999,Misc Retail,Detroit,MI,US
+M-3411, CVS  ,5732,Electronics,Los Angeles,CA,US
+M-3412,Publix,5541,Service Stations,Miami,FL,US
+M-3413,Kroger,5732,Electronics,Pittsburgh,PA,US
+M-3414,Apple Store,5691,Clothing,Dallas,TX,US
+M-3415,Amazon,4111,Transit,Portland,OR,US
+M-3416, Starbucks ,4121,Taxi/Limo,Houston,TX,US
+M-3417,7-Eleven,5999,Misc Retail,Dallas,TX,US
+M-3418,Lowes,5999,Misc Retail,Philadelphia,PA,US
+M-3419,Lowes,5541,Service Stations,San Antonio,TX,US
+M-3420,Starbucks,5999,Misc Retail,Detroit,MI,US
+M-3421,Chipotle,4121,Taxi/Limo,San Jose,CA,US
+M-3422,Uber,5814,Fast Food,Nashville,TN,US
+M-3423,Costco,4111,Transit,Cincinnati,OH,US
+M-3424,Best Buy,5814,Fast Food,Houston,TX,US
+M-3425,McDonalds,5999,Misc Retail,Portland,OR,US
+M-3426,Subway,5999,Misc Retail,Columbus,OH,US
+M-3427,CVS,5812,Restaurants,Miami,FL,US
+M-3428,Nike,6011,ATM,Seattle,WA,US
+M-3429,Subway,5814,Fast Food,Pittsburgh,PA,US
+M-3430,Home Depot,5999,Misc Retail,Phoenix,AZ,US
+M-3431,Lowes,5814,Fast Food,Houston,TX,US
+M-3432,Lyft,4111,Transit,St. Petersburg,FL,US
+M-3433,Best Buy,5541,Service Stations,New York,NY,US
+M-3434,Gap,4121,Taxi/Limo,San Jose,CA,US
+M-3435,Walmart,5814,Fast Food,Jacksonville,FL,US
+M-3436,Uber,5541,Service Stations,Charlotte,NC,US
+M-3437,Gap,4111,Transit,Miami,FL,US
+M-3438,7-Eleven,5541,Service Stations,Chicago,IL,US
+M-3439,Lyft,5691,Clothing,Jacksonville,FL,US
+M-3440,PuBLIX,5732,Electronics,Cincinnati,OH,US
+M-3441,7-Eleven,4121,Taxi/Limo,Jacksonville,FL,US
+M-3442,CVS,5999,Misc Retail,Cleveland,OH,US
+M-3443,Costco,5814,Fast Food,Orlando,FL,US
+M-3444,Apple Store,4121,Taxi/Limo,Seattle,WA,US
+M-3445,Gap,6011,ATM,St. Petersburg,FL,US
+M-3446,Costco,5691,Clothing,Houston,TX,US
+M-3447,Lowes,4111,Transit,Charlotte,NC,US
+M-3448,Apple Store,5999,Misc Retail,Denver,CO,US
+M-3449,Shell,6011,ATM,Columbus,OH,US
+M-3450,Walgreens,5541,Service Stations,Philadelphia,PA,US
+M-3451,Nike,5732,Electronics,Dallas,TX,US
+M-3452,Gap,5732,Electronics,Columbus,OH,US
+M-3453,Uber,6011,ATM,St. Petersburg,FL,US
+M-3454,Amazon,5732,Electronics,Nashville,TN,US
+M-3455,Subway,5541,Service Stations,San Jose,CA,US
+M-3456,Walmart,4111,Transit,Chicago,IL,US
+M-3457,McDonalds,4111,Transit,Pittsburgh,PA,US
+M-3458,Kroger,5541,Service Stations,Detroit,MI,US
+M-3459,Target,5999,Misc Retail,Boston,MA,US
+M-3460,wAlMArt,5999,Misc Retail,Minneapolis,MN,US
+M-3461,Chevron,5999,Misc Retail,Pittsburgh,PA,US
+M-3462,Chevron,5691,Clothing,St. Petersburg,FL,US
+M-3463,Lyft,5691,Clothing,Los Angeles,CA,US
+M-3464,Chipotle,5541,Service Stations,Los Angeles,CA,US
+M-3465,Amazon,5814,Fast Food,San Antonio,TX,US
+M-3466,Apple Store,5411,Grocery Stores,Atlanta,GA,US
+M-3467,CVS,5812,Restaurants,Seattle,WA,US
+M-3468,Lowes,5541,Service Stations,Columbus,OH,US
+M-3469,Starbucks,5812,Restaurants,Chicago,IL,US
+M-3470,Shell,5999,Misc Retail,Orlando,FL,US
+M-3471,Amazon,5411,Grocery Stores,Jacksonville,FL,US
+M-3472,Shell,4111,Transit,Dallas,TX,US
+M-3473,Subway,5732,Electronics,Houston,TX,US
+M-3474,Amazon,4121,Taxi/Limo,Philadelphia,PA,US
+M-3475,Publix,5999,Misc Retail,San Diego,CA,US
+M-3476,Lowes,6011,ATM,Detroit,MI,US
+M-3477,Gap,4121,Taxi/Limo,Phoenix,AZ,US
+M-3478,Uber,5999,Misc Retail,Pittsburgh,PA,US
+M-3479,Subway,5732,Electronics,Miami,FL,US
+M-3480,7-Eleven,5691,Clothing,Tampa,FL,US
+M-3481,Walmart,5814,Fast Food,Cleveland,OH,US
+M-3482,Lowes,5814,Fast Food,Tampa,FL,US
+M-3483,Lowes,5812,Restaurants,Denver,CO,US
+M-3484,Lyft,4111,Transit,St. Petersburg,FL,US
+M-3485,Starbucks,5691,Clothing,San Jose,CA,US
+M-3486,Chipotle,5812,Restaurants,Seattle,WA,US
+M-3487,Best Buy,5732,Electronics,San Francisco,CA,US
+M-3488,Apple Store,4121,Taxi/Limo,Dallas,TX,US
+M-3489,Costco,5732,Electronics,Tampa,FL,US
+M-3490,7-Eleven,5541,Service Stations,Denver,CO,US
+M-3491,Whole Foods,5814,Fast Food,Atlanta,GA,US
+M-3492,Chipotle,5411,Grocery Stores,Los Angeles,CA,US
+M-3493,Whole Foods,4121,Taxi/Limo,Detroit,MI,US
+M-3494,Chipotle,5541,Service Stations,Cincinnati,OH,US
+M-3495,Chipotle,4121,Taxi/Limo,Boston,MA,US
+M-3496,Lowes,5814,Fast Food,Detroit,MI,US
+M-3497,Trader Joes,4121,Taxi/Limo,Minneapolis,MN,US
+M-3498,Target,4121,Taxi/Limo,San Jose,CA,US
+M-3499,Kroger,5691,Clothing,Portland,OR,US
+M-3500,Target,5691,Clothing,Minneapolis,MN,US

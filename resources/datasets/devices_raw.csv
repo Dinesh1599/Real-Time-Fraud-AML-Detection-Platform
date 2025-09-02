@@ -1,0 +1,801 @@
+device_id,fingerprint,os,model
+D-4001,dfp-ok0mihsub9t9,Windows,iPhone 14
+D-4002,dfp-h25whvlz24t2,Windows,Pixel 7
+D-4003,dfp-4cslad3x08qe,Android,iPhone 14
+D-4004,dfp-a1jeljfl2sqs,Windows,MacBook Air
+D-4005,dfp-p7yd3nkjxs6n,Android,Surface Pro 9
+D-4006,dfp-6mvv6vkcflyf,iOS,iPhone 15
+D-4007,dfp-xucam3qawjoj,Windows,Pixel 7
+D-4008,dfp-y0922wnky4ak,Linux,Galaxy S22
+D-4009,dfp-4k1u2n7bbf68,Windows,ThinkPad T14
+D-4010,dfp-52y7g4phfcew,Android,iPhone 14
+D-4011,dfp-qq3bot4vrk5o,Linux,ThinkPad T14
+D-4012,dfp-yhuweri4cd0s,iOS,MacBook Air
+D-4013,dfp-l2aqfxwr4taz,iOS,iPhone 14
+D-4014,dfp-bsb3tuzgz83c,Windows,Pixel 7
+D-4015,dfp-p46txsd7jyzk,Android,Galaxy S22
+D-4016,dfp-37359wtvesbb,macOS,MacBook Air
+D-4017,dfp-ivlwzmfj6m9t,Android,iPhone 14
+D-4018,dfp-o4z5by6z24p0,macOS,Galaxy S22
+D-4019,dfp-t699f4cg1lec,Android,Surface Pro 9
+D-4020,dfp-s9323kmt2y92,Android,Galaxy S22
+D-4021,dfp-zvv6nfmrk4p1,Android,iPhone 14
+D-4022,dfp-wm0icjeu6x5i,Linux,Surface Pro 9
+D-4023,dfp-9q46mp3cqgjx,Linux,Galaxy S22
+D-4024,dfp-8ip25xo8tufl,iOS,iPhone 15
+D-4025,dfp-2zy0fcwlyacm,Windows,iPhone 15
+D-4026,dfp-d8d52c2mr0n1,Windows,Surface Pro 9
+D-4027,dfp-h15l7bn23y4u,Windows,Surface Pro 9
+D-4028,dfp-quugppvnomxn,Android,Pixel 7
+D-4029,dfp-d2malgvhlb0p,macOS,iPhone 15
+D-4030,dfp-i70g5zx4in46,Linux,Galaxy S22
+D-4031,dfp-avhzyexr42sf,iOS,Pixel 7
+D-4032,dfp-pc46cb13temw,macOS,MacBook Air
+D-4033,dfp-zwezg3jtey6v,macOS,MacBook Air
+D-4034,dfp-18ef5505lsio,macOS,Galaxy S22
+D-4035,dfp-t3k82tqs7pmo,macOS,Pixel 7
+D-4036,dfp-j8u0qej1b7dx,Linux,Surface Pro 9
+D-4037,dfp-qny2opeyjgim,Android,Surface Pro 9
+D-4038,dfp-obexp7y7424v,Android,Surface Pro 9
+D-4039,dfp-9dosifq51h4u,Windows,MacBook Air
+D-4040,dfp-0aih3i0bxle3,Linux,Surface Pro 9
+D-4041,dfp-xosoacueklvp,Windows,iPhone 15
+D-4042,dfp-69o3tab6f65t,Windows,ThinkPad T14
+D-4043,dfp-xnaji17agajc,iOS,iPhone 15
+D-4044,dfp-w4inehuyn77o,iOS,iPhone 14
+D-4045,dfp-ryqa4j5du4km,iOS,Surface Pro 9
+D-4046,dfp-w6gkdetalacs,iOS,Pixel 7
+D-4047,dfp-y00cqfdsi57i,Android,Surface Pro 9
+D-4048,dfp-kprsjqhrm9p6,Windows,Pixel 7
+D-4049,dfp-agx630pdgbb7,iOS,ThinkPad T14
+D-4050,dfp-88brns4ubs79,macOS,Surface Pro 9
+D-4051,dfp-mv4tkaorcwrl,Windows,iPhone 15
+D-4052,dfp-6thekew5f3fa,Windows,iPhone 14
+D-4053,dfp-6s2gp1ghvwd9,macOS,iPhone 15
+D-4054,dfp-0qtej3y5i02x,Windows,MacBook Air
+D-4055,dfp-n5i4xnzmsav1,iOS,iPhone 14
+D-4056,dfp-yj1qgn719i3w,Linux,iPhone 14
+D-4057,dfp-btnz4jfqh2tx,macOS,Surface Pro 9
+D-4058,dfp-z1gofouica5r,Windows,MacBook Air
+D-4059,dfp-3e8d3jhl8rtg,Linux,ThinkPad T14
+D-4060,dfp-4asdymdmuv6e,Windows,Pixel 7
+D-4061,dfp-wb5hj1liubot,Android,ThinkPad T14
+D-4062,dfp-5tc6fjccnw7x,iOS,Galaxy S22
+D-4063,dfp-mn6kh8ko1urt,Linux,iPhone 15
+D-4064,dfp-5hh71ciq23o4,iOS,Surface Pro 9
+D-4065,dfp-gz30dot76zkm,Linux,Galaxy S22
+D-4066,dfp-ig5lbvnxm2nc,iOS,ThinkPad T14
+D-4067,dfp-ys7f3bh8gkdh,iOS,Pixel 7
+D-4068,dfp-v8y87juav9dw,Windows,iPhone 15
+D-4069,dfp-xuq5raddhbul,iOS,iPhone 14
+D-4070,dfp-ih3d1t4d5cvf,Android,ThinkPad T14
+D-4071,dfp-wwpbj8cpj2wi,Linux,Pixel 7
+D-4072,dfp-45xgygp3d3lo,Linux,ThinkPad T14
+D-4073,dfp-l950hr4mvfsv,macOS,Pixel 7
+D-4074,dfp-aw1nvfnqkhh5,Windows,ThinkPad T14
+D-4075,dfp-f7bc1atei8tr,Windows,iPhone 15
+D-4076,dfp-72tf9u8zly1h,iOS,iPhone 15
+D-4077,dfp-o3kdwqaq63zm,Linux,iPhone 14
+D-4078,dfp-moftzdkjap66,Windows,Surface Pro 9
+D-4079,dfp-o2uk6mgszhh4,iOS,iPhone 15
+D-4080,dfp-acbzy3u9qo7v,Android,iPhone 14
+D-4081,dfp-yujfa1u5iy4c,Android,Galaxy S22
+D-4082,dfp-jf2v97elfa9m,Linux,Surface Pro 9
+D-4083,dfp-9c54fw6gwzeg,Android,Pixel 7
+D-4084,dfp-1egfqpumckcm,Linux,Galaxy S22
+D-4085,dfp-bv5wdssz968e,macOS,iPhone 15
+D-4086,dfp-kz12c9sgt2yf,Android,Surface Pro 9
+D-4087,dfp-ib4t5ywi9cro,Windows,Galaxy S22
+D-4088,dfp-wwx4uwmwub13,Android,MacBook Air
+D-4089,dfp-dhbnh86vtvpp,Linux,ThinkPad T14
+D-4090,dfp-0uh70k89nuju,Windows,ThinkPad T14
+D-4091,dfp-j6hqhjeo5f1c,Android,iPhone 14
+D-4092,dfp-19wj8vi291r4,Android,iPhone 15
+D-4093,dfp-gkkjpbin2rww,Android,Surface Pro 9
+D-4094,dfp-v7wbwvp4yzih,iOS,iPhone 15
+D-4095,dfp-w22pwj8ou4fc,macOS,iPhone 15
+D-4096,dfp-b2k4ovp84o02,iOS,iPhone 15
+D-4097,dfp-jts4orlblz6y,Android,Surface Pro 9
+D-4098,dfp-itx9ur7tfdob,Windows,iPhone 14
+D-4099,dfp-608xssjg3j1g,Windows,ThinkPad T14
+D-4100,dfp-dvuam1e293q4,Linux,ThinkPad T14
+D-4101,dfp-pb60f3ry6xbf,iOS,iPhone 15
+D-4102,dfp-2dulx29vynd5,Windows,MacBook Air
+D-4103,dfp-xtsx2kzfcrl7,iOS,iPhone 14
+D-4104,dfp-nkq69xjmvykk,Windows,iPhone 15
+D-4105,dfp-96n3rzh1oaee,Android,Galaxy S22
+D-4106,dfp-5raxa7wn1d00,Android,Surface Pro 9
+D-4107,dfp-0n76tl23ladn,macOS,MacBook Air
+D-4108,dfp-5liuroxd4cj5,Windows,Pixel 7
+D-4109,dfp-blcu0s5a2xim,macOS,Surface Pro 9
+D-4110,dfp-62x1xeeeovkv,Windows,iPhone 14
+D-4111,dfp-gh207okk0zpd,iOS,Surface Pro 9
+D-4112,dfp-jhwp9xwb2uik,Windows,iPhone 15
+D-4113,dfp-zxrub973fkds,Windows,ThinkPad T14
+D-4114,dfp-fzedlpc0k4w7,Windows,iPhone 14
+D-4115,dfp-oeldfgwcof2r,macOS,Galaxy S22
+D-4116,dfp-j5md09w0bjc3,iOS,ThinkPad T14
+D-4117,dfp-a3sf2k8mllzm,Android,Galaxy S22
+D-4118,dfp-77ru2r3uj7n7,Linux,iPhone 15
+D-4119,dfp-v80j4j026tba,Windows,iPhone 15
+D-4120,dfp-vnw61afuho0k,iOS,Surface Pro 9
+D-4121,dfp-gxd5tdtgc0t6,Android,iPhone 15
+D-4122,dfp-sm9wpig889xt,iOS,iPhone 15
+D-4123,dfp-3vykxip5lcci,macOS,iPhone 15
+D-4124,dfp-edd0n76k0eb1,Linux,ThinkPad T14
+D-4125,dfp-1s2iuxgokem8,Android,Surface Pro 9
+D-4126,dfp-g14hd7l3rnpb,Linux,ThinkPad T14
+D-4127,dfp-6qgbtw3lzzhb,Android,iPhone 14
+D-4128,dfp-qpgvd4i685zi,macOS,Surface Pro 9
+D-4129,dfp-cco5wqnqux1d,Android,Galaxy S22
+D-4130,dfp-dolghh3kdkhx,Android,MacBook Air
+D-4131,dfp-0uutt9kw8u2y,iOS,Galaxy S22
+D-4132,dfp-o1q4g2lujj05,Android,Galaxy S22
+D-4133,dfp-cwkzqe2mf3oq,iOS,iPhone 15
+D-4134,dfp-bg8a45i1vtnn,macOS,ThinkPad T14
+D-4135,dfp-9vku1uc03bcc,Android,iPhone 15
+D-4136,dfp-rwfwyukje8oc,macOS,Galaxy S22
+D-4137,dfp-z6nfgdqalyun,Android,Galaxy S22
+D-4138,dfp-5wnjoe5p3q9v,Linux,Surface Pro 9
+D-4139,dfp-ta38fdo8oxse,macOS,Galaxy S22
+D-4140,dfp-rjzapw1hbwv3,Linux,MacBook Air
+D-4141,dfp-y3mf9cfmkypx,Windows,iPhone 15
+D-4142,dfp-nbnh3l7yo9ko,iOS,Pixel 7
+D-4143,dfp-ihrnxjrx40xy,Android,Galaxy S22
+D-4144,dfp-51g9srb0ukd0,Android,iPhone 14
+D-4145,dfp-k796swo4gs94,macOS,ThinkPad T14
+D-4146,dfp-9d2e31z3yla5,Windows,iPhone 15
+D-4147,dfp-mez8cenphr6y,Windows,Surface Pro 9
+D-4148,dfp-p5ua5oezvfrw,Linux,iPhone 15
+D-4149,dfp-ycgnhky311yl,iOS,iPhone 15
+D-4150,dfp-flfwgy1te76c,iOS,Galaxy S22
+D-4151,dfp-pwy3e423lard,macOS,iPhone 15
+D-4152,dfp-uexcee71x1u2,Android,iPhone 15
+D-4153,dfp-fmvifb32jtyb,macOS,ThinkPad T14
+D-4154,dfp-telvcgozrbni,Android,iPhone 14
+D-4155,dfp-ts3f3gxo6u0u,Android,Galaxy S22
+D-4156,dfp-lsgyylzplsby,macOS,MacBook Air
+D-4157,dfp-hoxjre6rqski,Android,Pixel 7
+D-4158,dfp-mkyhmuou52bm,macOS,iPhone 14
+D-4159,dfp-xgdxapf388uw,iOS,Galaxy S22
+D-4160,dfp-2jxr1woiecqe,Linux,iPhone 15
+D-4161,dfp-zojekrlx5s1f,macOS,MacBook Air
+D-4162,dfp-l7g63apy5f26,Android,Surface Pro 9
+D-4163,dfp-ca0o3v2e3cc5,Windows,iPhone 14
+D-4164,dfp-o91r0pwfhyqm,Android,Galaxy S22
+D-4165,dfp-qo47h55a3m42,Android,Surface Pro 9
+D-4166,dfp-dg3sbe9ilwna,Windows,Surface Pro 9
+D-4167,dfp-1ebc49gvz9si,Linux,Surface Pro 9
+D-4168,dfp-ijpapkqjfxj8,Linux,Surface Pro 9
+D-4169,dfp-a69swbfgjv9v,macOS,iPhone 15
+D-4170,dfp-9jcr28d02w9e,Android,MacBook Air
+D-4171,dfp-re5pi6phthrq,Linux,iPhone 15
+D-4172,dfp-uijo5e0lbn4g,macOS,iPhone 14
+D-4173,dfp-fg4d4msof1w6,Linux,iPhone 15
+D-4174,dfp-nmtcrfdse441,macOS,iPhone 14
+D-4175,dfp-bgqoqsszz70c,Windows,Pixel 7
+D-4176,dfp-biqbscgpdygb,Windows,ThinkPad T14
+D-4177,dfp-zn0kb05923pi,iOS,Galaxy S22
+D-4178,dfp-8g69upz2st1f,Android,Galaxy S22
+D-4179,dfp-1iham6ifozxx,Linux,Surface Pro 9
+D-4180,dfp-s9fe8fwe6gwc,macOS,ThinkPad T14
+D-4181,dfp-xwmf14wloa8q,Linux,Galaxy S22
+D-4182,dfp-aufvigii72iu,Windows,ThinkPad T14
+D-4183,dfp-5oc3m0fcfjcc,Linux,Pixel 7
+D-4184,dfp-k7m2k8dj54xr,macOS,iPhone 14
+D-4185,dfp-nhoasryhqeke,iOS,iPhone 14
+D-4186,dfp-ggq0wpk0xawg,macOS,Galaxy S22
+D-4187,dfp-lmqzig54wwps,iOS,Surface Pro 9
+D-4188,dfp-hzw3fn5savg4,Linux,Surface Pro 9
+D-4189,dfp-s4rx79mh50xr,macOS,Galaxy S22
+D-4190,dfp-19ozqmi7sl01,macOS,iPhone 14
+D-4191,dfp-uah3qkdn44v5,iOS,iPhone 15
+D-4192,dfp-l42yohtihhvb,macOS,ThinkPad T14
+D-4193,dfp-i166naprc8u2,iOS,Galaxy S22
+D-4194,dfp-6ng4pjd8ic4c,iOS,iPhone 14
+D-4195,dfp-b05crgb9vqil,iOS,Pixel 7
+D-4196,dfp-4oer4rblrc2b,Windows,MacBook Air
+D-4197,dfp-tss8y2h7a6bh,Android,iPhone 14
+D-4198,dfp-uqk2ji7j9p2g,Linux,Pixel 7
+D-4199,dfp-wf4ir3nuxjux,Android,Galaxy S22
+D-4200,dfp-38yaryk39k0f,iOS,Galaxy S22
+D-4201,dfp-i4qye8ef9qhb,Linux,Pixel 7
+D-4202,dfp-khvjlpfxc80p,macOS,iPhone 15
+D-4203,dfp-x6wo9qi83m4f,macOS,MacBook Air
+D-4204,dfp-tl82mm08o52x,iOS,iPhone 14
+D-4205,dfp-4c1bo974yjp0,Linux,Galaxy S22
+D-4206,dfp-4cmqjc7izp0u,Linux,Surface Pro 9
+D-4207,dfp-gelz7vof5kcl,iOS,iPhone 14
+D-4208,dfp-94jkcgqugltr,Linux,ThinkPad T14
+D-4209,dfp-ul6hhaqldlgw,Android,Galaxy S22
+D-4210,dfp-s3wud8n6f7il,iOS,Surface Pro 9
+D-4211,dfp-23dkd33w75bf,Android,Galaxy S22
+D-4212,dfp-trf13vqmw4sy,Windows,Pixel 7
+D-4213,dfp-enmdrh1hg1qf,iOS,Surface Pro 9
+D-4214,dfp-1uuem9ri444b,iOS,Galaxy S22
+D-4215,dfp-8okvyy3p4lpz,Windows,iPhone 14
+D-4216,dfp-89k7a0d5hyzi,macOS,ThinkPad T14
+D-4217,dfp-8fk5tga7bzfo,Linux,ThinkPad T14
+D-4218,dfp-f4dv3abu6dti,Android,ThinkPad T14
+D-4219,dfp-y1vnmpxzx81k,Linux,iPhone 14
+D-4220,dfp-86p7f2hrolhe,macOS,Pixel 7
+D-4221,dfp-g2akmfhyd0r8,iOS,Galaxy S22
+D-4222,dfp-wagmsqjmyxze,Linux,iPhone 14
+D-4223,dfp-zo56p8d3n3mj,macOS,Pixel 7
+D-4224,dfp-0l3j53ofm392,Android,ThinkPad T14
+D-4225,dfp-ozr0zchzwziv,macOS,Surface Pro 9
+D-4226,dfp-1q8ddcmpmffr,Windows,MacBook Air
+D-4227,dfp-0hmnsuf0a1fw,Windows,iPhone 15
+D-4228,dfp-gd7amyd2ntcq,iOS,iPhone 14
+D-4229,dfp-5mwf9cb2g8yk,macOS,iPhone 15
+D-4230,dfp-m4wql0094e6q,Windows,ThinkPad T14
+D-4231,dfp-0jbqxddaccud,Windows,iPhone 14
+D-4232,dfp-inxogreq1wsy,macOS,iPhone 15
+D-4233,dfp-j71e2bdlowo1,iOS,Surface Pro 9
+D-4234,dfp-vk1e5su9rmyi,Windows,ThinkPad T14
+D-4235,dfp-xmpdc6bohcdk,macOS,ThinkPad T14
+D-4236,dfp-37rhgsl4ubdm,macOS,iPhone 15
+D-4237,dfp-88l0owq8hv3p,Windows,Surface Pro 9
+D-4238,dfp-740tzihmnjt7,iOS,iPhone 15
+D-4239,dfp-o6ehd64ukn3l,Android,MacBook Air
+D-4240,dfp-7slpdt0qce7k,Windows,Pixel 7
+D-4241,dfp-jg0lk5ravceu,Android,Galaxy S22
+D-4242,dfp-96qon4s6fck8,Windows,MacBook Air
+D-4243,dfp-qu0ixoasoe60,Android,MacBook Air
+D-4244,dfp-tcapkas47007,Windows,iPhone 15
+D-4245,dfp-g7o0kz6rtxld,Linux,Galaxy S22
+D-4246,dfp-9k7k57qedi3f,Android,Galaxy S22
+D-4247,dfp-pxycgkwv30bp,Linux,Surface Pro 9
+D-4248,dfp-dquz1mi4m54a,Windows,iPhone 15
+D-4249,dfp-d645fdl4h13b,iOS,Surface Pro 9
+D-4250,dfp-2gxo8guj19iy,Android,Galaxy S22
+D-4251,dfp-9m8zrfw46h7x,iOS,iPhone 15
+D-4252,dfp-zb56ztg31st2,Windows,MacBook Air
+D-4253,dfp-lk657git4ea9,Windows,ThinkPad T14
+D-4254,dfp-an4iyur1x8h2,iOS,Surface Pro 9
+D-4255,dfp-ipz4z9c4kfmo,Android,MacBook Air
+D-4256,dfp-bjcgt7d5mcfa,Linux,iPhone 14
+D-4257,dfp-t83q5gp4isrd,Android,Pixel 7
+D-4258,dfp-bgoc2i01f4ko,iOS,iPhone 14
+D-4259,dfp-oc8g44u1pul8,Windows,iPhone 14
+D-4260,dfp-gke01h4rvmfv,Android,iPhone 15
+D-4261,dfp-1cboue6vl579,macOS,MacBook Air
+D-4262,dfp-unp7ikd9tkqq,Windows,iPhone 14
+D-4263,dfp-d9dw3nmgyds3,macOS,Galaxy S22
+D-4264,dfp-jbrqmujp892a,macOS,iPhone 14
+D-4265,dfp-96ri75yr9oxr,macOS,iPhone 15
+D-4266,dfp-r81neqm74xzs,Windows,iPhone 15
+D-4267,dfp-5y3rxytwdct1,Android,iPhone 15
+D-4268,dfp-3vsum2siwgub,macOS,Pixel 7
+D-4269,dfp-650dlobkyoye,Android,iPhone 15
+D-4270,dfp-syteobe7ok9j,Windows,ThinkPad T14
+D-4271,dfp-3g18rgwra7n5,iOS,iPhone 15
+D-4272,dfp-tpunswrmq91t,Windows,ThinkPad T14
+D-4273,dfp-8uo4h5ybtyo4,macOS,ThinkPad T14
+D-4274,dfp-y9dzxidifrdl,Linux,MacBook Air
+D-4275,dfp-3rzpky7dp5o9,iOS,iPhone 14
+D-4276,dfp-ollqofvtii0v,Linux,Pixel 7
+D-4277,dfp-vcfi7auw1knt,macOS,iPhone 15
+D-4278,dfp-qq0inw4qkhqc,Windows,iPhone 15
+D-4279,dfp-3uuj5uv4w30z,Linux,Surface Pro 9
+D-4280,dfp-k6g5l9m8jtjd,Windows,Pixel 7
+D-4281,dfp-dui1mrmwhv46,Android,ThinkPad T14
+D-4282,dfp-zdzkrlxs0809,Linux,Pixel 7
+D-4283,dfp-w12tlm1p22tp,macOS,iPhone 15
+D-4284,dfp-5uhwi5l4c2wp,iOS,Pixel 7
+D-4285,dfp-ppaw6d68ghve,Linux,MacBook Air
+D-4286,dfp-3n83k1v7wq3j,macOS,MacBook Air
+D-4287,dfp-wn2gwosl05el,macOS,Surface Pro 9
+D-4288,dfp-rq988jtw2bhj,Windows,ThinkPad T14
+D-4289,dfp-8p9h18lgxb3b,Linux,Surface Pro 9
+D-4290,dfp-1etrl9qzqbbg,macOS,Surface Pro 9
+D-4291,dfp-asocfzdfc0wn,iOS,Galaxy S22
+D-4292,dfp-xzst5n25kyxw,Android,MacBook Air
+D-4293,dfp-atv6vyzlgvbj,Android,iPhone 15
+D-4294,dfp-wvnc2g92fuzh,Windows,Pixel 7
+D-4295,dfp-v3xp5eyupg55,Linux,Pixel 7
+D-4296,dfp-jnzxwxa4lw56,Android,ThinkPad T14
+D-4297,dfp-syo2r7444sev,iOS,iPhone 14
+D-4298,dfp-mkwd757co66f,macOS,Surface Pro 9
+D-4299,dfp-g4rnolll7m2k,Linux,Pixel 7
+D-4300,dfp-emtv3aegm2sh,Android,ThinkPad T14
+D-4301,dfp-vqnezn7gdujw,Android,ThinkPad T14
+D-4302,dfp-yjezmqqmq19r,iOS,iPhone 14
+D-4303,dfp-7k58iivhtlyg,macOS,iPhone 14
+D-4304,dfp-hskrynn0gnp8,iOS,iPhone 15
+D-4305,dfp-h2tha1wqo2o9,Android,Surface Pro 9
+D-4306,dfp-re37a6zxe4w3,Windows,MacBook Air
+D-4307,dfp-5anuhn1sft26,Windows,ThinkPad T14
+D-4308,dfp-e88bpqabtxgw,iOS,Galaxy S22
+D-4309,dfp-k96nilnjkg73,Windows,Surface Pro 9
+D-4310,dfp-l2b70z3grj6q,Android,Galaxy S22
+D-4311,dfp-hbl4e228v2bt,Linux,Galaxy S22
+D-4312,dfp-e1ezsum1qpnd,Android,MacBook Air
+D-4313,dfp-zn5qplszwu7q,macOS,ThinkPad T14
+D-4314,dfp-b6p5ocqeggex,Android,MacBook Air
+D-4315,dfp-pfdkjsh8o8zf,Android,Pixel 7
+D-4316,dfp-k8uhn5r7a1mg,Android,iPhone 15
+D-4317,dfp-fcm88gfpt5ra,Linux,Galaxy S22
+D-4318,dfp-ejgk2go9acn9,iOS,iPhone 14
+D-4319,dfp-72oohaulhhgh,Android,iPhone 15
+D-4320,dfp-q96gygqmr3p9,Android,ThinkPad T14
+D-4321,dfp-sj9egqx9zqcu,macOS,MacBook Air
+D-4322,dfp-fes0gcb4pprh,Linux,Surface Pro 9
+D-4323,dfp-qva6ttb2tl0v,Windows,Galaxy S22
+D-4324,dfp-oktt9eoj9sj1,Linux,iPhone 15
+D-4325,dfp-ik2i9wjer4k9,Windows,iPhone 15
+D-4326,dfp-bhq7lq7mbmxs,Android,ThinkPad T14
+D-4327,dfp-qsx2urrdqzfq,Linux,Surface Pro 9
+D-4328,dfp-a5cklq9mt8lw,macOS,Galaxy S22
+D-4329,dfp-c2z9fhcwa9kd,iOS,Galaxy S22
+D-4330,dfp-jbxe3bqur3ns,iOS,ThinkPad T14
+D-4331,dfp-pbbp0lhka8tq,Android,Galaxy S22
+D-4332,dfp-34hx23zx4d0t,Linux,Surface Pro 9
+D-4333,dfp-7rtpc5pcozhq,iOS,Galaxy S22
+D-4334,dfp-fsyjehcqrbre,Android,iPhone 15
+D-4335,dfp-ttpls6mopoco,iOS,iPhone 14
+D-4336,dfp-7swck0kv8437,macOS,Galaxy S22
+D-4337,dfp-tw8zthunm6o2,iOS,iPhone 15
+D-4338,dfp-40irdwmpott9,macOS,iPhone 15
+D-4339,dfp-q2ncs3cylapu,macOS,Surface Pro 9
+D-4340,dfp-xxxua5fzwu74,Android,Galaxy S22
+D-4341,dfp-y5kcf1b7sdad,Android,iPhone 14
+D-4342,dfp-fb7vey4zqiyd,Linux,Galaxy S22
+D-4343,dfp-15elfrbzskt8,Linux,MacBook Air
+D-4344,dfp-47yqevpb5o1c,iOS,MacBook Air
+D-4345,dfp-mcsxtbgl5nok,iOS,Surface Pro 9
+D-4346,dfp-2jwgyo5bg7fv,Windows,iPhone 14
+D-4347,dfp-stfrmjsfcc0s,Android,ThinkPad T14
+D-4348,dfp-plxllhgzhl2n,Windows,Surface Pro 9
+D-4349,dfp-tp60hdiqnrhq,Linux,ThinkPad T14
+D-4350,dfp-evudmw0wh4w2,Windows,MacBook Air
+D-4351,dfp-1p5gkn0v0rnn,Windows,Pixel 7
+D-4352,dfp-11cz2n5kdz9y,iOS,iPhone 14
+D-4353,dfp-d2p8awfezy2y,Linux,Galaxy S22
+D-4354,dfp-d6t1hdfo27nt,macOS,iPhone 14
+D-4355,dfp-tz1qea3i7i9s,Linux,Pixel 7
+D-4356,dfp-iw4a4xofrw67,Linux,MacBook Air
+D-4357,dfp-lx3a5rzy9q6o,Windows,Surface Pro 9
+D-4358,dfp-49qsiu964zju,iOS,iPhone 15
+D-4359,dfp-yhx4bikcwigy,Windows,iPhone 14
+D-4360,dfp-ycy1mcp7nc60,Linux,ThinkPad T14
+D-4361,dfp-gflrt0fhfg16,Linux,iPhone 14
+D-4362,dfp-hxfadfsj1xg8,iOS,MacBook Air
+D-4363,dfp-mio390o9zubn,iOS,ThinkPad T14
+D-4364,dfp-zwzv3u9ratqr,Linux,iPhone 15
+D-4365,dfp-fxv3tqb8im8u,iOS,Surface Pro 9
+D-4366,dfp-1fvqzbo45x0v,Windows,MacBook Air
+D-4367,dfp-y4ign5gpllsm,Android,iPhone 14
+D-4368,dfp-r6yw7s0ytbgp,Android,ThinkPad T14
+D-4369,dfp-btwaqnvn6kf0,iOS,iPhone 14
+D-4370,dfp-t52s27nj4e6d,Linux,iPhone 15
+D-4371,dfp-xj1cth7rdku1,Android,iPhone 14
+D-4372,dfp-w47fn3jjkpb6,macOS,Surface Pro 9
+D-4373,dfp-ejm6si9m4d1i,macOS,Galaxy S22
+D-4374,dfp-4m3umr5jus9x,Android,Pixel 7
+D-4375,dfp-4u4nu6ibzb66,Windows,Pixel 7
+D-4376,dfp-idxi3zshn6gb,Windows,Surface Pro 9
+D-4377,dfp-qzujp5scdujs,Android,Pixel 7
+D-4378,dfp-82u84hk1k6u1,Windows,MacBook Air
+D-4379,dfp-757mvrkwu832,Linux,MacBook Air
+D-4380,dfp-ecp40thidjwr,macOS,Galaxy S22
+D-4381,dfp-m1cga2shv406,macOS,MacBook Air
+D-4382,dfp-l0uxwz538hk2,Linux,iPhone 15
+D-4383,dfp-eq0iuv1vxzj0,iOS,iPhone 14
+D-4384,dfp-u2dd7xr8ifpx,Linux,iPhone 14
+D-4385,dfp-83anrl48xg2w,iOS,MacBook Air
+D-4386,dfp-mbp6j2koahxu,Android,Pixel 7
+D-4387,dfp-o5uoxeazjove,Linux,Galaxy S22
+D-4388,dfp-a3jy61emtk7k,Linux,MacBook Air
+D-4389,dfp-i0x85jumu3dg,Windows,MacBook Air
+D-4390,dfp-s9apgpkav2d9,iOS,Galaxy S22
+D-4391,dfp-e5k0j7wbw78m,iOS,iPhone 15
+D-4392,dfp-ikydrbad2hvw,iOS,Galaxy S22
+D-4393,dfp-gjyntxq19l98,Android,MacBook Air
+D-4394,dfp-5nhdufghgwlu,macOS,Pixel 7
+D-4395,dfp-mqohp5ms8zkr,Windows,Pixel 7
+D-4396,dfp-vqw7z2b35pr5,Windows,MacBook Air
+D-4397,dfp-h349fu65mli4,Windows,Pixel 7
+D-4398,dfp-7l4jo903k9xm,Android,ThinkPad T14
+D-4399,dfp-zchhqhy3sna2,Android,ThinkPad T14
+D-4400,dfp-vxdvwsms355p,Linux,Pixel 7
+D-4401,dfp-ob2z1he0hh7r,macOS,MacBook Air
+D-4402,dfp-fqnj1zk19ujl,macOS,Surface Pro 9
+D-4403,dfp-ukyim02pyu5e,Android,Surface Pro 9
+D-4404,dfp-9nq00yd0yg57,Android,iPhone 14
+D-4405,dfp-vuohgyawam33,macOS,Surface Pro 9
+D-4406,dfp-vckgdn397asi,iOS,iPhone 14
+D-4407,dfp-rh23w5xneah2,Windows,iPhone 15
+D-4408,dfp-yaaic1avqu6g,macOS,Surface Pro 9
+D-4409,dfp-anfyd74g8dh7,Windows,Galaxy S22
+D-4410,dfp-y8qm2dvvwgy2,Windows,MacBook Air
+D-4411,dfp-4jkljd5u6apy,macOS,Galaxy S22
+D-4412,dfp-pie2tgho5c4v,Windows,iPhone 14
+D-4413,dfp-2iqiuyqpgzjt,macOS,ThinkPad T14
+D-4414,dfp-f7rlnkdnec1f,Linux,MacBook Air
+D-4415,dfp-6opj225d5sbt,Android,Galaxy S22
+D-4416,dfp-qp27amscrwmh,Windows,ThinkPad T14
+D-4417,dfp-oh8l73ze0v11,Windows,Surface Pro 9
+D-4418,dfp-fq7bexz5fesp,iOS,MacBook Air
+D-4419,dfp-bd6r2kdvcj7d,macOS,Pixel 7
+D-4420,dfp-avn4hx2a6ki1,macOS,Surface Pro 9
+D-4421,dfp-9m4nuejxb3u5,Linux,MacBook Air
+D-4422,dfp-3te6a8x5sb9s,Linux,MacBook Air
+D-4423,dfp-wg2sycloli01,Linux,ThinkPad T14
+D-4424,dfp-okti2kc33k33,Linux,Galaxy S22
+D-4425,dfp-vh43wrg9gdol,Linux,Surface Pro 9
+D-4426,dfp-n478ao8dl5qh,Linux,iPhone 14
+D-4427,dfp-7rw8ve0fnqfl,Windows,Galaxy S22
+D-4428,dfp-s14f4t08dueu,iOS,Pixel 7
+D-4429,dfp-oe6qbt22co5d,Windows,iPhone 15
+D-4430,dfp-z4iron8692t8,Windows,MacBook Air
+D-4431,dfp-hhvg9z0zjajn,Windows,Surface Pro 9
+D-4432,dfp-3993wo9bf338,iOS,MacBook Air
+D-4433,dfp-cqnhsjk1h9w7,Windows,Surface Pro 9
+D-4434,dfp-y7qvqhpaheh2,iOS,iPhone 15
+D-4435,dfp-bso8imolyeeu,Android,iPhone 15
+D-4436,dfp-izls966705z0,Linux,Galaxy S22
+D-4437,dfp-dnp8ry6w8h3e,macOS,Surface Pro 9
+D-4438,dfp-2pzbj5arjk84,Windows,Surface Pro 9
+D-4439,dfp-ps18rl3d9ozc,macOS,iPhone 14
+D-4440,dfp-7uijqyr4ico1,Windows,ThinkPad T14
+D-4441,dfp-jb295ickppoq,Windows,ThinkPad T14
+D-4442,dfp-cuws3829ggbo,macOS,ThinkPad T14
+D-4443,dfp-nesd7hly8341,Linux,MacBook Air
+D-4444,dfp-d52n22ypj9op,macOS,MacBook Air
+D-4445,dfp-3gauft5k8ncy,Windows,Surface Pro 9
+D-4446,dfp-uma4o8ake5a3,Android,Galaxy S22
+D-4447,dfp-2vvd4y7mbjip,Linux,Pixel 7
+D-4448,dfp-bljx6cljbaka,macOS,ThinkPad T14
+D-4449,dfp-jfmv37sfpwzj,macOS,Surface Pro 9
+D-4450,dfp-k4mhrqe5qqvo,Windows,Pixel 7
+D-4451,dfp-vm35qvohpi9d,Windows,ThinkPad T14
+D-4452,dfp-xgsq74jm20w0,Windows,Surface Pro 9
+D-4453,dfp-lt84lbsa6j9l,Windows,Surface Pro 9
+D-4454,dfp-hoiirbavbi7c,Android,Galaxy S22
+D-4455,dfp-gxqulffs0dh5,Android,MacBook Air
+D-4456,dfp-1n21wl8xxatc,macOS,iPhone 15
+D-4457,dfp-87a2xpj05gk8,iOS,MacBook Air
+D-4458,dfp-n3bdjfy9pxhg,Android,Pixel 7
+D-4459,dfp-8bafkxypr4gt,Android,ThinkPad T14
+D-4460,dfp-g1ri609kwa02,Windows,Galaxy S22
+D-4461,dfp-8yyyp2xvwahm,Windows,iPhone 14
+D-4462,dfp-e3wx9ffhzxde,Android,iPhone 14
+D-4463,dfp-1xe6a5avyr2w,iOS,iPhone 15
+D-4464,dfp-icdjn8fz6rd7,Android,iPhone 14
+D-4465,dfp-z4wky8scfjzo,iOS,iPhone 14
+D-4466,dfp-sgbn01wro7ye,Windows,Surface Pro 9
+D-4467,dfp-gntvec8gcir6,macOS,ThinkPad T14
+D-4468,dfp-to0x5nw1aqjw,macOS,MacBook Air
+D-4469,dfp-ttjlo53wih9s,Windows,ThinkPad T14
+D-4470,dfp-xjkdgey99623,Windows,ThinkPad T14
+D-4471,dfp-5yqxwa4mmtlk,Linux,ThinkPad T14
+D-4472,dfp-7nnrjges5hiv,macOS,ThinkPad T14
+D-4473,dfp-74dh7bbw57v9,iOS,iPhone 14
+D-4474,dfp-7z6zwdp5g6zg,iOS,iPhone 15
+D-4475,dfp-46wzeul774r4,macOS,Surface Pro 9
+D-4476,dfp-dqrp9tlki9z2,Windows,Surface Pro 9
+D-4477,dfp-cjmrnpljcy3e,macOS,Pixel 7
+D-4478,dfp-chbv9flblduh,Android,Pixel 7
+D-4479,dfp-yfo0ogka5znr,Windows,iPhone 14
+D-4480,dfp-911mt5c3hx41,macOS,Pixel 7
+D-4481,dfp-6yqnj3gbrlkh,iOS,Galaxy S22
+D-4482,dfp-d1tqvprp9j93,Windows,ThinkPad T14
+D-4483,dfp-fv4lv2craiyp,iOS,iPhone 15
+D-4484,dfp-jrqqruv8lr34,iOS,Pixel 7
+D-4485,dfp-tqdue29zxtr5,iOS,Pixel 7
+D-4486,dfp-5z038ryhvk3o,macOS,iPhone 14
+D-4487,dfp-qa8v11luej7q,Android,iPhone 14
+D-4488,dfp-etpu98ud3tjn,Windows,ThinkPad T14
+D-4489,dfp-yuxsx2r7j1a4,Linux,iPhone 14
+D-4490,dfp-v5ae361l68dw,Linux,ThinkPad T14
+D-4491,dfp-o8xyh34bcjck,Linux,iPhone 14
+D-4492,dfp-w4ra4xgh2p8x,macOS,MacBook Air
+D-4493,dfp-cjdpia0h4smw,Windows,Surface Pro 9
+D-4494,dfp-efu2vpnv5b1k,iOS,iPhone 14
+D-4495,dfp-c3qrx7n1wkja,macOS,Pixel 7
+D-4496,dfp-txltlowyc5m9,Android,MacBook Air
+D-4497,dfp-rp09gjvwxbu7,iOS,Galaxy S22
+D-4498,dfp-wiis711f3tae,macOS,MacBook Air
+D-4499,dfp-ihe330tdwg1n,Linux,ThinkPad T14
+D-4500,dfp-d790e8uuwuva,macOS,Galaxy S22
+D-4501,dfp-3nstfa1tiung,iOS,Pixel 7
+D-4502,dfp-3arp3rywueh6,Windows,Pixel 7
+D-4503,dfp-ri0k2kc3sqcc,iOS,iPhone 14
+D-4504,dfp-nezsr4xnan9y,iOS,Pixel 7
+D-4505,dfp-67op5lb31h49,Android,Pixel 7
+D-4506,dfp-lp74w2z2mbep,Android,iPhone 15
+D-4507,dfp-agxrhzd0v25h,Linux,MacBook Air
+D-4508,dfp-czlzarhfgv5w,Linux,Galaxy S22
+D-4509,dfp-3pi8zcdos003,iOS,Pixel 7
+D-4510,dfp-ci5yjk561a5y,Android,Surface Pro 9
+D-4511,dfp-de32f13o51m2,Linux,Surface Pro 9
+D-4512,dfp-dk58xy374tnp,Windows,iPhone 14
+D-4513,dfp-uuxlsl7jjaim,Windows,Surface Pro 9
+D-4514,dfp-0ybwfor7pbdm,Android,ThinkPad T14
+D-4515,dfp-nwzzgzdqu56c,Windows,iPhone 14
+D-4516,dfp-46jipqxk15zp,Windows,MacBook Air
+D-4517,dfp-vfbdb024isz6,Windows,Pixel 7
+D-4518,dfp-8tyywy8huxpc,Android,Galaxy S22
+D-4519,dfp-d6angncd0enh,iOS,iPhone 15
+D-4520,dfp-9gui2rd7lc8f,Android,Surface Pro 9
+D-4521,dfp-z5hw4j6nnm8y,Android,MacBook Air
+D-4522,dfp-ws87d4uuvqzk,macOS,MacBook Air
+D-4523,dfp-sxpykcchxvna,iOS,iPhone 15
+D-4524,dfp-rrfkzl69kpzv,Windows,iPhone 14
+D-4525,dfp-2lhb1po7wdzl,macOS,Galaxy S22
+D-4526,dfp-ge40bvn8iv9t,Windows,ThinkPad T14
+D-4527,dfp-qp3dh9mlplbu,macOS,iPhone 15
+D-4528,dfp-a6ya1ll695g9,macOS,iPhone 15
+D-4529,dfp-ydysywiqyz3r,macOS,ThinkPad T14
+D-4530,dfp-muu9fdrgjwdv,Android,Galaxy S22
+D-4531,dfp-v0gf3rtysdzq,iOS,iPhone 15
+D-4532,dfp-sotcsg0rt71v,Linux,iPhone 15
+D-4533,dfp-ld84knxiz7fu,Android,Pixel 7
+D-4534,dfp-5bcdfj6vxe2b,Windows,iPhone 15
+D-4535,dfp-bfp18d68eo5u,Windows,iPhone 14
+D-4536,dfp-k6v44lb9hqou,macOS,Galaxy S22
+D-4537,dfp-yztr1fnvvjne,Android,Pixel 7
+D-4538,dfp-3wlcmvavdjuv,Windows,Pixel 7
+D-4539,dfp-o5jm5hq5522x,iOS,iPhone 14
+D-4540,dfp-tbtnebq9ghuj,Android,MacBook Air
+D-4541,dfp-90pu2gu6xcmg,iOS,ThinkPad T14
+D-4542,dfp-o09hwtkyiom7,iOS,Pixel 7
+D-4543,dfp-pifq5p4st0nk,macOS,MacBook Air
+D-4544,dfp-v0vjtrgdiyu3,iOS,MacBook Air
+D-4545,dfp-1qicytwckhk5,macOS,Surface Pro 9
+D-4546,dfp-yz8a4pl6xrt7,iOS,ThinkPad T14
+D-4547,dfp-ycrfcekd4qta,Android,ThinkPad T14
+D-4548,dfp-744yciy045ae,Linux,Galaxy S22
+D-4549,dfp-pejay19d6b0w,Linux,iPhone 14
+D-4550,dfp-32dut171jkmq,iOS,Surface Pro 9
+D-4551,dfp-pmsq4zc8kmt8,iOS,MacBook Air
+D-4552,dfp-qi2xh4zryem0,iOS,MacBook Air
+D-4553,dfp-i924kqpdbo99,macOS,iPhone 14
+D-4554,dfp-qz0btf45f1wt,Android,MacBook Air
+D-4555,dfp-wrjo258vcug6,Windows,ThinkPad T14
+D-4556,dfp-us52d9okfx7p,macOS,ThinkPad T14
+D-4557,dfp-km9n92yqyhg7,Windows,MacBook Air
+D-4558,dfp-hwcj60brhde8,Linux,Surface Pro 9
+D-4559,dfp-gu09bnnxe7s4,Linux,MacBook Air
+D-4560,dfp-hmx68d7w624w,Android,Pixel 7
+D-4561,dfp-ipw5qji8top7,Android,Galaxy S22
+D-4562,dfp-vtov4aojadka,iOS,Surface Pro 9
+D-4563,dfp-zsoiweq2mh96,Windows,Galaxy S22
+D-4564,dfp-sjq37n1q4iav,Linux,Surface Pro 9
+D-4565,dfp-cnixze9bv0lo,Android,iPhone 14
+D-4566,dfp-voduuwmzr0pt,iOS,Galaxy S22
+D-4567,dfp-ayfco5gak5vo,Windows,Surface Pro 9
+D-4568,dfp-pjtu7ug3r1kt,Linux,ThinkPad T14
+D-4569,dfp-6u0a5xyucvxr,Android,ThinkPad T14
+D-4570,dfp-w94n7xwrlm8i,Windows,Galaxy S22
+D-4571,dfp-6n2geuj8txvh,iOS,ThinkPad T14
+D-4572,dfp-vobjglzftfew,iOS,Pixel 7
+D-4573,dfp-scde3pp88g8z,Linux,MacBook Air
+D-4574,dfp-onftm7u9ko25,Android,iPhone 15
+D-4575,dfp-8tnznax04qbh,macOS,MacBook Air
+D-4576,dfp-j99a88n0dnci,macOS,Surface Pro 9
+D-4577,dfp-6kr6dsy5qsv3,Windows,Galaxy S22
+D-4578,dfp-fmyxwbcshqto,Android,Pixel 7
+D-4579,dfp-5ui73xoywvyd,iOS,iPhone 15
+D-4580,dfp-42w49cv3xt3l,Windows,MacBook Air
+D-4581,dfp-hix3rhadobtt,Linux,MacBook Air
+D-4582,dfp-18df7xifgj3o,macOS,Galaxy S22
+D-4583,dfp-c8qg30qegc6h,Windows,MacBook Air
+D-4584,dfp-gva0di1xvlgd,iOS,MacBook Air
+D-4585,dfp-ax4xpb37azam,Windows,iPhone 14
+D-4586,dfp-sbum7vi1qcjj,iOS,MacBook Air
+D-4587,dfp-30n55ca2hw1u,macOS,iPhone 15
+D-4588,dfp-aa3xw6ke7ej1,Windows,ThinkPad T14
+D-4589,dfp-jt14miw1duiz,Linux,Surface Pro 9
+D-4590,dfp-5bppdhs8ohz9,macOS,iPhone 15
+D-4591,dfp-8t4rrd5qsjm7,Linux,iPhone 14
+D-4592,dfp-zii5k9wdtqab,Windows,iPhone 15
+D-4593,dfp-iuga8jt11tv1,Windows,iPhone 14
+D-4594,dfp-gi3uz9l8pzlp,Windows,Galaxy S22
+D-4595,dfp-np4o9ejbsdks,Windows,iPhone 14
+D-4596,dfp-zwcjwlc4i3g0,Linux,iPhone 15
+D-4597,dfp-y16pkzwef2oq,Linux,MacBook Air
+D-4598,dfp-v1rpwwaegtai,Android,ThinkPad T14
+D-4599,dfp-04wvkwr7cgxq,Windows,ThinkPad T14
+D-4600,dfp-s7cixesae0c6,macOS,iPhone 15
+D-4601,dfp-evfsaci74w8q,macOS,Galaxy S22
+D-4602,dfp-9ylqkxmajb66,macOS,iPhone 15
+D-4603,dfp-085zp5ef97h4,Android,Pixel 7
+D-4604,dfp-pht6qlmdvla3,macOS,MacBook Air
+D-4605,dfp-36d1qd9ll2q3,Android,iPhone 15
+D-4606,dfp-zirewennwf4j,iOS,ThinkPad T14
+D-4607,dfp-dkwj72qt6m08,Windows,ThinkPad T14
+D-4608,dfp-8ow2cozr487i,iOS,Galaxy S22
+D-4609,dfp-57u6sw0pmpat,macOS,MacBook Air
+D-4610,dfp-e4hfxveg0trk,iOS,iPhone 14
+D-4611,dfp-tljlkqpjj8ku,Android,Galaxy S22
+D-4612,dfp-jexlicav5x5l,Windows,Galaxy S22
+D-4613,dfp-ua2iygsaeymy,Linux,iPhone 15
+D-4614,dfp-zx4bn6yp741c,macOS,Surface Pro 9
+D-4615,dfp-lctp2b6h8ipv,Linux,MacBook Air
+D-4616,dfp-1p6h1qbpsj54,iOS,iPhone 15
+D-4617,dfp-zjhkwo0o6iqk,macOS,iPhone 14
+D-4618,dfp-donxxw7opl25,Linux,ThinkPad T14
+D-4619,dfp-rrtu01g55iqf,macOS,ThinkPad T14
+D-4620,dfp-bc1yii9nw2a3,Linux,Pixel 7
+D-4621,dfp-16s8qkbn5tax,Windows,Surface Pro 9
+D-4622,dfp-clqn1po4ofpq,Linux,Galaxy S22
+D-4623,dfp-h9scz8clhbqd,iOS,Pixel 7
+D-4624,dfp-ci2rv7bmnodf,Android,iPhone 15
+D-4625,dfp-iapcaq8u8iz0,Linux,iPhone 14
+D-4626,dfp-0psvhfomv3zi,Windows,iPhone 15
+D-4627,dfp-4eza2ivk3ny4,Android,ThinkPad T14
+D-4628,dfp-2k2v31hs5tzb,Android,iPhone 15
+D-4629,dfp-mhilmcg2e3so,Android,Pixel 7
+D-4630,dfp-jfadrwc8v67m,Android,Surface Pro 9
+D-4631,dfp-huywmjp85gde,Linux,Pixel 7
+D-4632,dfp-ywql12jx96u3,macOS,Galaxy S22
+D-4633,dfp-s01cg1xwl4l6,Windows,Pixel 7
+D-4634,dfp-8vm5ax1mqkri,Android,Surface Pro 9
+D-4635,dfp-b5qci0dd510u,Android,ThinkPad T14
+D-4636,dfp-75vcpvpexd3j,macOS,iPhone 14
+D-4637,dfp-qrzcq52c1yox,Linux,MacBook Air
+D-4638,dfp-w6kdcs0jr1lw,macOS,iPhone 14
+D-4639,dfp-thgxirlp2y6s,macOS,iPhone 14
+D-4640,dfp-kiwk07gvje0o,macOS,MacBook Air
+D-4641,dfp-6ul0095bxnu5,iOS,Surface Pro 9
+D-4642,dfp-yvo1qk0q8dc7,Android,iPhone 14
+D-4643,dfp-qthzwokxfjwh,Windows,Surface Pro 9
+D-4644,dfp-qzo34y2z4q7o,iOS,MacBook Air
+D-4645,dfp-dbajt6vcg4zn,Android,iPhone 14
+D-4646,dfp-ixtpjtgm2w9x,Windows,ThinkPad T14
+D-4647,dfp-3n429pbr6yez,Windows,ThinkPad T14
+D-4648,dfp-06t9ms3p9ccm,Android,Surface Pro 9
+D-4649,dfp-m88ohb3focs2,iOS,Pixel 7
+D-4650,dfp-w8kehun1ol8b,Android,Pixel 7
+D-4651,dfp-xqhv0728qyty,Android,iPhone 15
+D-4652,dfp-8i266dthis23,Android,ThinkPad T14
+D-4653,dfp-dl4m33rnbxra,Windows,Pixel 7
+D-4654,dfp-93wsx6ayp4ll,macOS,Galaxy S22
+D-4655,dfp-ds7ol00sytmn,macOS,iPhone 15
+D-4656,dfp-9efsaqbf6t7e,macOS,Pixel 7
+D-4657,dfp-2h0twunpx7x2,macOS,iPhone 15
+D-4658,dfp-pp5h0xlwitor,Android,ThinkPad T14
+D-4659,dfp-eyggvjyrlhq2,macOS,iPhone 14
+D-4660,dfp-40c14k10t204,macOS,ThinkPad T14
+D-4661,dfp-53ad87ytzaq1,Android,iPhone 14
+D-4662,dfp-ht12c76qe9ht,Windows,Pixel 7
+D-4663,dfp-2n5syrqp86fu,iOS,iPhone 14
+D-4664,dfp-3kyeqldr4691,Android,ThinkPad T14
+D-4665,dfp-k6fpulgaqzei,Android,iPhone 15
+D-4666,dfp-tfrja1c2xlkg,Linux,Galaxy S22
+D-4667,dfp-c1074iz8sg2h,iOS,Surface Pro 9
+D-4668,dfp-akprnmo7q029,Linux,iPhone 15
+D-4669,dfp-ta9rqneuzlv5,Windows,ThinkPad T14
+D-4670,dfp-aseh0qha537q,macOS,MacBook Air
+D-4671,dfp-i025gwammgkr,Android,iPhone 15
+D-4672,dfp-uewa31d8zd7e,Linux,MacBook Air
+D-4673,dfp-1c6gm4knh3x5,Android,ThinkPad T14
+D-4674,dfp-5n67r6nh399y,Windows,iPhone 14
+D-4675,dfp-802k07vp3nir,iOS,iPhone 15
+D-4676,dfp-mt00yihwt9u3,Linux,Surface Pro 9
+D-4677,dfp-m6tog1wuexq1,iOS,MacBook Air
+D-4678,dfp-zfaqhinll3vk,Windows,ThinkPad T14
+D-4679,dfp-prt6od8903mh,iOS,Galaxy S22
+D-4680,dfp-fdzprkqxodwu,Windows,Pixel 7
+D-4681,dfp-zr1j6orwyx9l,Android,Pixel 7
+D-4682,dfp-trikbgef23kl,Android,Pixel 7
+D-4683,dfp-9e4upuwz51au,macOS,Galaxy S22
+D-4684,dfp-6z0d83zs9dmf,macOS,Galaxy S22
+D-4685,dfp-ujj355gj4256,Android,Surface Pro 9
+D-4686,dfp-91dq7i5og35h,macOS,ThinkPad T14
+D-4687,dfp-w8o65zhy98sc,macOS,iPhone 15
+D-4688,dfp-o3fiq22y9h61,Linux,MacBook Air
+D-4689,dfp-2kqnuk70oe9s,iOS,iPhone 14
+D-4690,dfp-18y69md49uec,Android,Pixel 7
+D-4691,dfp-feqbecetfm48,iOS,Pixel 7
+D-4692,dfp-23742becq3q6,Android,Galaxy S22
+D-4693,dfp-5c1xv0y040hv,Windows,Galaxy S22
+D-4694,dfp-097r5ta0uh7v,iOS,MacBook Air
+D-4695,dfp-pne0wpbfxxs5,Linux,Surface Pro 9
+D-4696,dfp-0rox0v3iqz72,macOS,Pixel 7
+D-4697,dfp-9uk1xrsnjp9b,iOS,ThinkPad T14
+D-4698,dfp-vj53abphac0n,Android,MacBook Air
+D-4699,dfp-ehx4d23i6uxh,Android,Surface Pro 9
+D-4700,dfp-wedgizeddesj,macOS,Pixel 7
+D-4701,dfp-3mzcui199ifs,Windows,ThinkPad T14
+D-4702,dfp-xkn4crvfokf8,Android,Galaxy S22
+D-4703,dfp-182ok67prmiz,Linux,ThinkPad T14
+D-4704,dfp-0vye9mkaoxrh,Android,iPhone 14
+D-4705,dfp-9lx3adetaqay,Windows,MacBook Air
+D-4706,dfp-ozl1duu0a53k,Windows,ThinkPad T14
+D-4707,dfp-xswfk249qhsp,Linux,MacBook Air
+D-4708,dfp-3k4j5fu2rwia,Android,Galaxy S22
+D-4709,dfp-gkxjcm63phgo,macOS,iPhone 14
+D-4710,dfp-bl3136iey4r3,Linux,iPhone 14
+D-4711,dfp-66z3a1ojclfw,Linux,iPhone 15
+D-4712,dfp-v6x9du435lfd,Linux,iPhone 15
+D-4713,dfp-v7h620tc731i,iOS,Surface Pro 9
+D-4714,dfp-124yd534lyms,macOS,Surface Pro 9
+D-4715,dfp-zkbo47137c42,iOS,Surface Pro 9
+D-4716,dfp-7ub3bnfviupq,Android,Surface Pro 9
+D-4717,dfp-794gy9sagirr,Windows,Pixel 7
+D-4718,dfp-kf79wtgcjs4r,Android,MacBook Air
+D-4719,dfp-uvq0z0dzbsma,Android,ThinkPad T14
+D-4720,dfp-8136iggyhwq5,iOS,MacBook Air
+D-4721,dfp-vedspde6vvh4,Windows,iPhone 14
+D-4722,dfp-ayfgleb9tyfk,iOS,iPhone 14
+D-4723,dfp-qhdatfjykc61,Linux,Galaxy S22
+D-4724,dfp-5utbxvjcwmyv,Linux,Galaxy S22
+D-4725,dfp-1h48u8e97ayw,Android,iPhone 15
+D-4726,dfp-l0t2tl186ikr,macOS,ThinkPad T14
+D-4727,dfp-b5cgcow1rq93,Linux,MacBook Air
+D-4728,dfp-ogq6pvddbx03,macOS,Galaxy S22
+D-4729,dfp-72f8bjii8eop,macOS,MacBook Air
+D-4730,dfp-ypppqp39hft6,iOS,ThinkPad T14
+D-4731,dfp-uv6b68duayhg,iOS,iPhone 14
+D-4732,dfp-tolsyle4h3xn,Android,Surface Pro 9
+D-4733,dfp-68304zsvfeyx,Linux,Pixel 7
+D-4734,dfp-9kub04j5r8dt,Android,Surface Pro 9
+D-4735,dfp-9cqwgk85o4bk,Android,ThinkPad T14
+D-4736,dfp-dc09znjbm99r,Windows,Surface Pro 9
+D-4737,dfp-v9dx0nmucre6,Windows,Surface Pro 9
+D-4738,dfp-plonsz123q8h,Android,Galaxy S22
+D-4739,dfp-yw6uav4p02kw,Linux,MacBook Air
+D-4740,dfp-ctme12v0c013,macOS,iPhone 14
+D-4741,dfp-g54v0wpquozh,iOS,MacBook Air
+D-4742,dfp-al5yiayfizsb,Android,Pixel 7
+D-4743,dfp-3l7ymtlj1192,Windows,Surface Pro 9
+D-4744,dfp-new0alb5ifda,Windows,iPhone 14
+D-4745,dfp-b1hsmut18p09,Windows,MacBook Air
+D-4746,dfp-f69n7esri01e,macOS,MacBook Air
+D-4747,dfp-zg2ugq8o2i1z,macOS,ThinkPad T14
+D-4748,dfp-bw6ndy056dg3,Windows,Surface Pro 9
+D-4749,dfp-ycfirqg5y036,iOS,ThinkPad T14
+D-4750,dfp-zfd76c6r781g,Windows,Pixel 7
+D-4751,dfp-2ttt4zfddgec,iOS,ThinkPad T14
+D-4752,dfp-e3mpw6lwwzfj,Windows,MacBook Air
+D-4753,dfp-3djk6c0n7xat,Android,MacBook Air
+D-4754,dfp-e0z0740210q6,Linux,Pixel 7
+D-4755,dfp-35mub0jtezsv,iOS,Galaxy S22
+D-4756,dfp-xo6nyeb8mcpi,Windows,iPhone 15
+D-4757,dfp-669kxhxb3w8j,Linux,ThinkPad T14
+D-4758,dfp-7prp08stcept,Windows,Pixel 7
+D-4759,dfp-8nroix1wvfbx,iOS,Surface Pro 9
+D-4760,dfp-ug1tjzlsr20d,Android,Surface Pro 9
+D-4761,dfp-fe285hgzckoj,Windows,Surface Pro 9
+D-4762,dfp-dq2uwiqxaq0i,Windows,ThinkPad T14
+D-4763,dfp-pcoyqs8e0x6z,iOS,MacBook Air
+D-4764,dfp-c5qvearfrm5y,iOS,ThinkPad T14
+D-4765,dfp-lxeurezdwel2,Android,Galaxy S22
+D-4766,dfp-cenjcghp9fq4,Linux,iPhone 14
+D-4767,dfp-gwfz5idf2nc5,macOS,iPhone 14
+D-4768,dfp-r320u5jbqawh,macOS,iPhone 14
+D-4769,dfp-qbx7im5w2lp1,iOS,iPhone 15
+D-4770,dfp-xo89kj2mh6gv,Windows,Galaxy S22
+D-4771,dfp-b4uia6n4dgb9,macOS,iPhone 15
+D-4772,dfp-zdh15ra5q33w,Android,iPhone 14
+D-4773,dfp-lljtmy9j960j,Linux,MacBook Air
+D-4774,dfp-x2vq4g39upz3,iOS,Galaxy S22
+D-4775,dfp-5my67d9x0en7,Android,Pixel 7
+D-4776,dfp-oqvu8poec6yd,Linux,MacBook Air
+D-4777,dfp-pj0hj9hc4hs4,Windows,Surface Pro 9
+D-4778,dfp-p713fdr66h7e,iOS,Galaxy S22
+D-4779,dfp-kmyc82r5agtr,Linux,Pixel 7
+D-4780,dfp-hx94mr8okv1o,macOS,iPhone 15
+D-4781,dfp-7ox28je92t6f,Windows,Galaxy S22
+D-4782,dfp-rj6mnu9h8wxj,Android,Galaxy S22
+D-4783,dfp-acusehqo838x,Android,MacBook Air
+D-4784,dfp-q7br04cj0jd8,Windows,iPhone 15
+D-4785,dfp-lzfwnvz3eujo,iOS,Surface Pro 9
+D-4786,dfp-yzdqk90m1piv,iOS,iPhone 15
+D-4787,dfp-qjwq71qmftqj,macOS,Galaxy S22
+D-4788,dfp-0m1q1qbileup,Windows,Surface Pro 9
+D-4789,dfp-rg0jy4z0utww,macOS,Pixel 7
+D-4790,dfp-3yk0zb3vocwf,macOS,Surface Pro 9
+D-4791,dfp-ds7zctys0nnp,Windows,iPhone 14
+D-4792,dfp-tbdwq89koj21,Linux,iPhone 14
+D-4793,dfp-388d20fgagau,Android,Pixel 7
+D-4794,dfp-1gkhekz0iruh,Linux,Pixel 7
+D-4795,dfp-oo9674o7ax16,Android,Galaxy S22
+D-4796,dfp-wp1huz1n06ow,iOS,Pixel 7
+D-4797,dfp-aonm9aw60jpf,Windows,iPhone 15
+D-4798,dfp-kfmb1h5m8tjo,macOS,MacBook Air
+D-4799,dfp-vppbas2hdx85,Android,Galaxy S22
+D-4800,dfp-y3h1al090730,Android,ThinkPad T14
