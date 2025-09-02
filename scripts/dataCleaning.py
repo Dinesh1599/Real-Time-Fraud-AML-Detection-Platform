@@ -2,8 +2,8 @@
 """
 BATCH PROCESSING INCLUDES FOR THE FOLLOWING FILES THAT HAS ALREADY BEEN LOADED INTO ORACLE DATABASE
 customers - done
-accounts 
-merchants
+accounts - done
+merchants - done
 branches
 geos
 """
@@ -49,8 +49,17 @@ def normalize_rows(rs):
     return norm
 
 
+def clean_time(val):
+    try:
+        if pd.isna(val) or val ==  "":
+            return "1970-01-01T00:00:00" # Default Epoch Date
+        else:
+            return pd.to_datetime(val, errors="coerce").strftime("%Y-%m-%dT%H:%M:%S%z")
+    except Exception:
+        return "1970-01-01T00:00:00" # Default Epoch Date
+
 def stg_customer(engine,cur):
-    sql_query = "SELECT * FROM RAW_CUSTOMERS"
+    sql_query = "SELECT * FROM RAW_CUSTOMERS"  #change * to the columns you requre - faster
     df = pd.read_sql(sql_query,engine)
     df = df.copy()
     df['customer_id'] = df['customer_id'].str.upper().str.strip()
@@ -157,6 +166,150 @@ WHEN NOT MATCHED THEN INSERT (
     cur.executemany(sql_insert_query,rows)
     print("Data loaded successfully into Oracle!")
 
+def stg_account(engine,cur):
+    sql_query = "SELECT * FROM RAW_ACCOUNTS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+
+    df["account_id"] = df["account_id"].astype(str).str.strip().str.upper()
+    df["customer_id"] = df["customer_id"].astype(str).str.strip().str.upper()
+    df["type"] = df["type"].astype(str).str.strip().str.title()
+    df["opened_at"] = df["opened_at"].apply(clean_time)
+    df["branch_id"] = df["branch_id"].astype(str).str.strip().str.upper()
+    df["balance"] = df["balance"].astype(float).round(2)
+    
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    
+    df.drop_duplicates()
+
+    sql_create_query = """CREATE TABLE STG_ACCOUNTS (
+        account_id    VARCHAR2(20) PRIMARY KEY,
+        customer_id   VARCHAR2(20) NOT NULL,
+        type          VARCHAR2(30),
+        balance       NUMBER(10,2),
+        currency      VARCHAR2(4),
+        status        VARCHAR2(20),
+        opened_at     DATE,
+        branch_id     VARCHAR2(20),
+        CONSTRAINT fk_acc_cust
+            FOREIGN KEY (customer_id) REFERENCES STG_CUSTOMER(customer_id)
+    )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_ACCOUNTS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_ACCOUNTS exists;")
+                # drop_sql = f'DROP TABLE STG_ACCOUNTS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise    
+
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_insert_query = """
+    MERGE INTO STG_ACCOUNTS d
+    USING (
+        SELECT
+        :account_id  AS account_id,
+        :customer_id AS customer_id,
+        :type        AS type,
+        :currency    AS currency,
+        :balance     AS balance,
+        :status      AS status,
+        TO_TIMESTAMP(:opened_at, 'YYYY-MM-DD"T"HH24:MI:SS') AS opened_at,
+        :branch_id   AS branch_id
+    FROM dual
+    ) s
+    ON (d.account_id = s.account_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.customer_id  = s.customer_id,
+        d.type         = s.type,
+        d.currency     = s.currency,
+        d.balance      = s.balance,
+        d.status       = s.status,
+        d.opened_at    = s.opened_at,
+        d.branch_id    = s.branch_id
+    WHEN NOT MATCHED THEN INSERT (
+        account_id, customer_id, type, currency, balance, status, opened_at, branch_id
+    ) VALUES (
+        s.account_id, s.customer_id, s.type, s.currency, s.balance, s.status, s.opened_at, s.branch_id
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
+
+def stg_merchant(engine,cur):
+    sql_query = "SELECT * FROM RAW_MERCHANTS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+    print(df.count())
+
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["merchant_id"] = df["merchant_id"].astype(str).str.strip().str.upper()
+    df["name"] = df["name"].apply(lambda s: cleanStr(s).title() if s is not None else None)
+    df["category"] = df["category"].apply(lambda s: cleanStr(s).title() if s is not None else None)
+
+    sql_create_query = """
+    CREATE TABLE STG_MERCHANTS (
+        merchant_id    VARCHAR2(20) PRIMARY KEY,
+        name           VARCHAR2(50) NOT NULL,
+        mcc            NUMBER(6),
+        category       VARCHAR2(50),
+        city           VARCHAR2(20),
+        state          VARCHAR2(2),
+        country_code   VARCHAR2(2)
+    )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_MERCHANTS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_MERCHANTS exists;")
+                # drop_sql = f'DROP TABLE STG_MERCHANTS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+    
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_insert_query = """
+    MERGE INTO STG_MERCHANTS d
+    USING (
+        SELECT
+        :merchant_id    AS merchant_id,
+        :name           AS name,
+        :mcc            AS mcc,
+        :category       AS category,
+        :city           AS city,
+        :state          AS state,
+        :country_code   AS country_code
+    FROM dual
+    ) s
+    ON (d.merchant_id = s.merchant_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.name          = s.name,
+        d.mcc           = s.mcc,
+        d.category      = s.category,
+        d.city          = s.city,
+        d.state         = s.state,
+        d.country_code  = s.country_code
+    WHEN NOT MATCHED THEN INSERT (
+        merchant_id, name, mcc, category, city, state, country_code
+    ) VALUES (
+        s.merchant_id, s.name, s.mcc, s.category, s.city, s.state, s.country_code
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
 
 
 def main():
@@ -164,7 +317,9 @@ def main():
     with oracledb.connect(user=USER, password=PWD, dsn=DSN) as conn:
         cur = conn.cursor()
         print(cur)
-        stg_customer(engine,cur)
+        #stg_customer(engine,cur)
+        #stg_account(engine,cur)
+        stg_merchant(engine,cur)
         conn.commit()
 
 if __name__ == "__main__":
