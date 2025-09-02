@@ -8,9 +8,8 @@ branches - done
 geos - done
 """
 
-import argparse, ipaddress, os, re, oracledb, pandas as pd, sqlalchemy, numpy as np
-from dataclasses import dataclass, field
-from typing import Dict, List, Optional
+import os, oracledb, pandas as pd, sqlalchemy, numpy as np
+from typing import  Optional
 from dotenv import load_dotenv
 
 load_dotenv()
