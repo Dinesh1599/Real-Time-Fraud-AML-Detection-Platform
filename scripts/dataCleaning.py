@@ -8,16 +8,25 @@ branches - done
 geos - done
 """
 
+"""#TODO
+    1. MENTION ALL COLUMNS IN DF THAT WAS NOT USED AND FILL IT WITH NA (SAFETY NET)
+    2. CREATE A LOG FOR ALL THE CHANGES THAT WERE DONE - DELETE UPDATE TRUNC (SAVE IT IN TRUNC)
+"""
 import os, oracledb, pandas as pd, sqlalchemy, numpy as np
 from typing import  Optional
 from dotenv import load_dotenv
+from urllib.parse import quote_plus
 
 load_dotenv()
 
 
-USER = os.getenv("ORACLE_APP_USER", "APPUSER")
-PWD  = os.getenv("ORACLE_APP_PWD",  "apppwd")
-DSN  = os.getenv("ORACLE_DSN",      "localhost/XEPDB1")
+USER = os.getenv("ORACLE_APP_USER", "ADMIN")
+PWD  = os.getenv("ORACLE_APP_PWD",  "Dr@gonfire1599")
+DSN  = '''(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1521)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=g9e10c5aa27d741_oracletxn_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))'''
+pwd_enc = quote_plus(PWD)
+dsn_enc = quote_plus(DSN)
+
+
 
 def cleanStr(x):
     if pd.isna(x): return None
@@ -161,7 +170,7 @@ WHEN NOT MATCHED THEN INSERT (
     #         print(e)
     #         break
 
-    
+    cur.execute("ALTER SESSION DISABLE PARALLEL DML")
     cur.executemany(sql_insert_query,rows)
     print("Data loaded successfully into Oracle!")
 
@@ -175,7 +184,8 @@ def stg_account(engine,cur):
     df["type"] = df["type"].astype(str).str.strip().str.title()
     df["opened_at"] = df["opened_at"].apply(clean_time)
     df["branch_id"] = df["branch_id"].astype(str).str.strip().str.upper()
-    df["balance"] = df["balance"].astype(float).round(2)
+    df["balance"] = df["balance"].apply(lambda x: round(float(x), 2) if pd.notna(x) else 0.00)
+ 
     
     df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
     
@@ -444,19 +454,282 @@ def stg_geo(engine,cur):
     print("Data loaded successfully into Oracle!")
 
 
+#REAL TIME DATA LOAD HERE
 
+def stg_txn(engine,cur):
+    sql_query = "SELECT * FROM RAW_TRANSACTIONS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["txn_id"] = df["txn_id"].astype(str).str.strip().str.upper()
+    df["src_account_id"] = df["src_account_id"].astype(str).str.strip().str.upper()
+    df["dst_account_id"] = df["dst_account_id"].astype(str).str.strip().str.upper()
+    df["merchant_id"] = df["merchant_id"].astype(str).str.strip().str.upper()
+    df["status"] = df["status"].astype(str).str.strip().str.upper()
+    df["ts"] = df["ts"].apply(clean_time)
+    df["amount"] = pd.to_numeric(df["amount"], errors='coerce')
+    df = df.drop_duplicates()
     
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+        CREATE TABLE STG_TRANSACTIONS (
+            txn_id            VARCHAR2(30) PRIMARY KEY,
+            src_account_id    VARCHAR2(20) NOT NULL,
+            dst_account_id    VARCHAR2(20) NOT NULL,
+            merchant_id       VARCHAR2(20) NOT NULL,
+            amount            NUMBER(10,2),
+            currency          VARCHAR2(10),
+            channel           VARCHAR2(10),
+            ts                TIMESTAMP,
+            status            VARCHAR2(120)
+        )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_TRANSACTIONS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_TRANSACTIONS exists;")
+                # drop_sql = f'DROP TABLE STG_TRANSACTIONS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+
+    sql_insert_query = """
+    MERGE INTO STG_TRANSACTIONS d
+    USING (
+        SELECT
+        :txn_id                 AS txn_id,
+        :src_account_id         AS src_account_id,
+        :dst_account_id        AS dst_account_id,
+        :merchant_id            AS merchant_id,
+        :amount                 AS amount,
+        :currency               AS currency,
+        :channel                AS channel,
+        :status                 AS status,
+        TO_TIMESTAMP(:ts,'YYYY-MM-DD"T"HH24:MI:SS') AS ts
+    FROM dual
+    ) s
+    ON (d.txn_id = s.txn_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.src_account_id        = s.src_account_id,
+        d.dst_account_id       = s.dst_account_id,
+        d.merchant_id           = s.merchant_id,
+        d.amount                = s.amount,
+        d.currency              = s.currency,
+        d.channel               = s.channel,
+        d.status                = s.status,
+        d.ts                    = s.ts
+    WHEN NOT MATCHED THEN INSERT (
+        txn_id, src_account_id, dst_account_id, merchant_id, amount, currency, channel, status, ts
+    ) VALUES (
+        s.txn_id, s.src_account_id, s.dst_account_id, s.merchant_id, s.amount, s.currency, s.channel, s.status, s.ts
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
+
+def stg_logins(engine, cur):
+    sql_query = "SELECT * FROM RAW_LOGINS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["login_id"] = df["login_id"].astype(str).str.strip().str.upper()
+    df["customer_id"] = df["customer_id"].astype(str).str.strip().str.upper()
+    df["device_id"] = df["device_id"].astype(str).str.strip().str.upper()
+    df["geo_id"] = df["geo_id"].astype(str).str.strip().str.upper()
+    df["ts"] = df["ts"].apply(clean_time)
+    df = df.drop_duplicates()
+
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+        CREATE TABLE STG_LOGINS (
+            login_id            VARCHAR2(30) PRIMARY KEY,
+            customer_id         VARCHAR2(20) NOT NULL,
+            device_id           VARCHAR2(20) NOT NULL,
+            geo_id              VARCHAR2(20) NOT NULL,
+            channel           VARCHAR2(10),
+            ts                TIMESTAMP,
+            result            VARCHAR2(120)
+        )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_LOGINS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table  STG_LOGINS exists;")
+                # drop_sql = f'DROP TABLE STG_LOGINS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+
+    sql_insert_query = """
+    MERGE INTO STG_LOGINS d
+    USING (
+        SELECT
+        :login_id                 AS login_id,
+        :customer_id              AS customer_id,
+        :device_id                AS device_id,
+        :geo_id                   AS geo_id,
+        :channel                  AS channel,
+        :result                   AS result,
+        TO_TIMESTAMP(:ts,'YYYY-MM-DD"T"HH24:MI:SS') AS ts
+    FROM dual
+    ) s
+    ON (d.login_id = s.login_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.customer_id         = s.customer_id,
+        d.device_id           = s.device_id,
+        d.geo_id                = s.geo_id,
+        d.channel               = s.channel,
+        d.result                = s.result,
+        d.ts                    = s.ts
+    WHEN NOT MATCHED THEN INSERT (
+        login_id, customer_id, device_id, geo_id, channel, result, ts
+    ) VALUES (
+        s.login_id, s.customer_id, s.device_id, s.geo_id, s.channel, s.result, s.ts
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
+
+def stg_devices(engine, cur):
+    sql_query = "SELECT * FROM RAW_DEVICES"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["device_id"] = df["device_id"].astype(str).str.strip().str.upper()
+    df["os"] = df["os"].astype(str).str.strip().str.upper()
+    df = df.drop_duplicates()
+
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+        CREATE TABLE STG_DEVICES (
+            device_id           VARCHAR2(30) PRIMARY KEY,
+            fingerprint         VARCHAR2(100) NOT NULL,
+            os                  VARCHAR2(50) NOT NULL,
+            model               VARCHAR2(100) NOT NULL
+        )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_DEVICES")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table STG_DEVICES exists;")
+                # drop_sql = f'DROP TABLE STG_DEVICES'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+    
+    sql_insert_query = """
+    MERGE INTO STG_DEVICES d
+    USING (
+        SELECT
+        :device_id                 AS device_id,
+        :fingerprint               AS fingerprint,
+        :os                        AS os,
+        :model                     AS model
+    FROM dual
+    ) s
+    ON (d.device_id = s.device_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.fingerprint         = s.fingerprint,
+        d.os                  = s.os,
+        d.model               = s.model
+    WHEN NOT MATCHED THEN INSERT (
+        device_id, fingerprint, os, model
+    ) VALUES (
+        s.device_id, s.fingerprint, s.os, s.model
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
+
+def stg_sanction(engine, cur):
+    sql_query = "SELECT * FROM RAW_SANCTIONS"
+    df = pd.read_sql_query(sql_query,engine)
+    df = df.copy()
+    df = df.drop(['ingest_ts','source_file','rownum_in_file'],axis=1)
+    df["sanction_id"] = df["sanction_id"].astype(str).str.strip().str.upper()
+    df["entity_name"] = df["entity_name"].apply(lambda s: cleanStr(s).title() if s is not None else None)
+    df = df.drop_duplicates()
+
+    rows = df.to_dict(orient="records")
+    rows = normalize_rows(rows) # to avoid TypeError: Expected str, got quoted_name
+
+    sql_create_query = """
+        CREATE TABLE STG_SANCTIONS (
+            sanction_id             VARCHAR2(30) PRIMARY KEY,
+            list_name               VARCHAR2(100) NOT NULL,
+            entity_name             VARCHAR2(100) NOT NULL,
+            risk_level              VARCHAR2(10) NOT NULL
+        )
+    """
+    try:
+        cur.execute(sql_create_query)
+        print(f"[STG] Created STG_SANCTIONS")
+    except oracledb.DatabaseError as e:
+            msg = str(e).lower()
+            if "ora-00955" in msg or "name is already used" in msg:
+                print(f"Table STG_SANCTIONS exists;")
+                # drop_sql = f'DROP TABLE STG_SANCTIONS'
+                # print(drop_sql)
+                # cur.execute(drop_sql)
+            else:
+                raise  
+    
+    sql_insert_query = """
+    MERGE INTO STG_SANCTIONS d
+    USING (
+        SELECT
+        :sanction_id                    AS sanction_id,
+        :list_name                      AS list_name,
+        :entity_name                    AS entity_name,
+        :risk_level                     AS risk_level
+    FROM dual
+    ) s
+    ON (d.sanction_id = s.sanction_id)
+    WHEN MATCHED THEN UPDATE SET
+        d.list_name                = s.list_name,
+        d.entity_name              = s.entity_name,
+        d.risk_level               = s.risk_level
+    WHEN NOT MATCHED THEN INSERT (
+        sanction_id, list_name, entity_name, risk_level
+    ) VALUES (
+        s.sanction_id, s.list_name, s.entity_name, s.risk_level
+    )
+    """
+    cur.executemany(sql_insert_query,rows)
+    print("Data loaded successfully into Oracle!")
 
 
 def main():
-    engine = sqlalchemy.create_engine(f"oracle+oracledb://{USER}:{PWD}@localhost:1521/?service_name=XEPDB1")
+    engine = sqlalchemy.create_engine(f"oracle+oracledb://{USER}:{pwd_enc}@/?dsn={dsn_enc}")
     with oracledb.connect(user=USER, password=PWD, dsn=DSN) as conn:
         cur = conn.cursor()
-        # stg_customer(engine,cur)
-        # stg_account(engine,cur)
-        # stg_merchant(engine,cur)
-        # stg_branches(engine,cur)
+        stg_customer(engine,cur)
+        stg_account(engine,cur)
+        stg_merchant(engine,cur)
+        stg_branches(engine,cur)
         stg_geo(engine,cur)
+        stg_txn(engine,cur)
+        stg_logins(engine,cur)
+        stg_devices(engine,cur)
+        stg_sanction(engine,cur)
         conn.commit()
 
 if __name__ == "__main__":

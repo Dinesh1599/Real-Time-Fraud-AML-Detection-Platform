@@ -1,12 +1,11 @@
 import os, oracledb, pandas as pd
-from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
 
-USER = os.getenv("ORACLE_APP_USER", "APPUSER")
-PWD  = os.getenv("ORACLE_APP_PWD",  "apppwd")
-DSN  = os.getenv("ORACLE_DSN",      "localhost/XEPDB1")
+USER = os.getenv("ORACLE_APP_USER", "ADMIN")
+PWD  = os.getenv("ORACLE_APP_PWD",  "Dr@gonfire1599")
+DSN  = '''(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1521)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=g9e10c5aa27d741_oracletxn_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))'''
 DATA_DIR = os.getenv("DATA_DIR")
 
 FILES = {
