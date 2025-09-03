@@ -11,6 +11,7 @@ geos - done
 """#TODO
     1. MENTION ALL COLUMNS IN DF THAT WAS NOT USED AND FILL IT WITH NA (SAFETY NET)
     2. CREATE A LOG FOR ALL THE CHANGES THAT WERE DONE - DELETE UPDATE TRUNC (SAVE IT IN TRUNC)
+    3. FIX .env and dotenv to save cloud access secure
 """
 import os, oracledb, pandas as pd, sqlalchemy, numpy as np
 from typing import  Optional
